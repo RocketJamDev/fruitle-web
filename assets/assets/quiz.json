@@ -1,0 +1,3847 @@
+{
+	"2022-05-07 00:00:00.000": {
+		"number": 1,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Which of these colours is NOT featured in the logo for Google?",
+			"questionEs": "¿Cuál de estos colores NO aparece en el logotipo de Google?",
+			"a1": {
+				"answer": "Pink",
+				"answerEs": "Rosa",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Yellow",
+				"answerEs": "Amarillo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Blue",
+				"answerEs": "Azul",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Green",
+				"answerEs": "Verde",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Film",
+			"question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+			"questionEs": "¿En qué país europeo se desarrolla principalmente la película de 2002 \"28 días después\"?",
+			"a1": {
+				"answer": "United Kingdom",
+				"answerEs": "Reino Unido",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "France",
+				"answerEs": "Francia",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Italy",
+				"answerEs": "Italia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Germany",
+				"answerEs": "Alemania",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Animals",
+			"question": "To which biological phylum do all mammals, birds and reptiles belong?",
+			"questionEs": "¿A qué filo biológico pertenecen todos los mamíferos, aves y reptiles?",
+			"a1": {
+				"answer": "Chordata",
+				"answerEs": "cordados",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Echinodermata",
+				"answerEs": "Equinodermos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Annelida",
+				"answerEs": "anélida",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Placazoa",
+				"answerEs": "placazoa",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Mythology",
+			"question": "Neptune&#039;s greek name was...",
+			"questionEs": "El nombre griego de Neptuno era...",
+			"a1": {
+				"answer": "Poseidon",
+				"answerEs": "Poseidón",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Ares",
+				"answerEs": "Ares",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Zeus",
+				"answerEs": "Zeus",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Apollo",
+				"answerEs": "Apolo",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What is Tiger Woods&#039; all-time best career golf-score?",
+			"questionEs": "¿Cuál es el mejor puntaje de golf de todos los tiempos de Tiger Woods?",
+			"a1": {
+				"answer": "61",
+				"answerEs": "61",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "65",
+				"answerEs": "sesenta y cinco",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "63",
+				"answerEs": "63",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "67",
+				"answerEs": "67",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-08 00:00:00.000": {
+		"number": 2,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+			"questionEs": "¿Cuáles de estos bancos NO están autorizados a emitir billetes en Hong Kong?",
+			"a1": {
+				"answer": "OCBC",
+				"answerEs": "OCBC",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "HSBC",
+				"answerEs": "HSBC",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Standard Chartered",
+				"answerEs": "Charter estándar",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Bank of China",
+				"answerEs": "Banco de China",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Japanese Anime & Manga",
+			"question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+			"questionEs": "En \"To Love-Ru\", Ren y Run son de qué planeta?",
+			"a1": {
+				"answer": "Memorze",
+				"answerEs": "memorizar",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Deviluke",
+				"answerEs": "deviluke",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Mistletoe",
+				"answerEs": "Muérdago",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Okiwana",
+				"answerEs": "okiwana",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science & Nature",
+			"question": "Which of the following men does not have a chemical element named after him?",
+			"questionEs": "¿Cuál de los siguientes hombres no tiene un elemento químico que lleva su nombre?",
+			"a1": {
+				"answer": "Sir Isaac Newton",
+				"answerEs": "Señor isaac newton",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Albert Einstein",
+				"answerEs": "Albert Einstein",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Niels Bohr",
+				"answerEs": "niels bohr",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Enrico Fermi",
+				"answerEs": "Enrico Fermi",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Politics",
+			"question": "Former United States President Bill Clinton famously played which instrument?",
+			"questionEs": "¿Qué instrumento tocó el ex presidente de los Estados Unidos, Bill Clinton?",
+			"a1": {
+				"answer": "Saxophone",
+				"answerEs": "Saxofón",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Baritone horn",
+				"answerEs": "Cuerno barítono",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Piano",
+				"answerEs": "Piano",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Violin",
+				"answerEs": "Violín",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+			"questionEs": "¿Quién ganó el Campeonato Nacional de Playoffs de Fútbol Universitario (CFP) de 2015?",
+			"a1": {
+				"answer": "Ohio State Buckeyes",
+				"answerEs": "Buckeyes del estado de Ohio",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Alabama Crimson Tide",
+				"answerEs": "Marea carmesí de Alabama",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Clemson Tigers",
+				"answerEs": "tigres de clemson",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Wisconsin Badgers",
+				"answerEs": "Tejones de Wisconsin",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-09 00:00:00.000": {
+		"number": 3,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+			"questionEs": "¿Qué país vio un récord mundial de 315 millones de votantes en las elecciones del 20 de mayo de 1991?",
+			"a1": {
+				"answer": "India",
+				"answerEs": "India",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "United States of America",
+				"answerEs": "Estados Unidos de América",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Soviet Union",
+				"answerEs": "Unión Soviética",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Poland",
+				"answerEs": "Polonia",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Comics",
+			"question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+			"questionEs": "¿Quién escribió la serie de cómics de Batman \"The Killing Joke\"?",
+			"a1": {
+				"answer": "Alan Moore",
+				"answerEs": "alan moore",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Bill Finger",
+				"answerEs": "Bill dedo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Frank Miller",
+				"answerEs": "franco molinero",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Jerry Siegel",
+				"answerEs": "jerry siegel",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Mathematics",
+			"question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+			"questionEs": "¿Cuál es el número más pequeño que se puede expresar como la suma de dos cubos positivos de dos maneras diferentes?",
+			"a1": {
+				"answer": "1729",
+				"answerEs": "1729",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "91",
+				"answerEs": "91",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "561",
+				"answerEs": "561",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "4104",
+				"answerEs": "4104",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "History",
+			"question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+			"questionEs": "¿En qué año terminó la Gran Guerra del Norte, entre Rusia y Suecia?",
+			"a1": {
+				"answer": "1721",
+				"answerEs": "1721",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "1726",
+				"answerEs": "1726",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "1727",
+				"answerEs": "1727",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "1724",
+				"answerEs": "1724",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "How many soccer players should be on the field at the same time?",
+			"questionEs": "¿Cuántos jugadores de fútbol deben estar en el campo al mismo tiempo?",
+			"a1": {
+				"answer": "22",
+				"answerEs": "22",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "20",
+				"answerEs": "20",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "24",
+				"answerEs": "24",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "26",
+				"answerEs": "26",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-10 00:00:00.000": {
+		"number": 4,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "In past times, what would a gentleman keep in his fob pocket?",
+			"summary":"Fob Pocket",
+			"questionEs": "En tiempos pasados, ¿qué guardaba un caballero en el bolsillo de su llavero?",
+			"a1": {
+				"answer": "Watch",
+				"answerEs": "Reloj",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Money",
+				"answerEs": "Dinero",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Keys",
+				"answerEs": "Llaves",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Notebook",
+				"answerEs": "Computadora portátil",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Television",
+			"question": "Which former Coronation Street actress was once a hostess on the British Game Show &quot;Double Your Money&quot;?",
+			"summary": "Double Your Money",
+			"questionEs": "¿Qué ex actriz de Coronation Street fue presentadora en el programa de juegos británico \"Double Your Money\"?",
+			"a1": {
+				"answer": "Amanda Barrie",
+				"answerEs": "amanda barrie",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sue Nicholls",
+				"answerEs": "sue nicholls",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Violet Carson",
+				"answerEs": "carson violeta",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Jean Alexander",
+				"answerEs": "Juan Alejandro",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Gadgets",
+			"question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+			"summary": "Mitsubishi Wakamaru",
+			"questionEs": "¿Qué es el \"Mitsubishi Wakamaru\"?",
+			"a1": {
+				"answer": "A robot",
+				"answerEs": "Un robot",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "A pickup truck",
+				"answerEs": "una camioneta",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "An motorcycle",
+				"answerEs": "una motocicleta",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "A motorboat",
+				"answerEs": "una lancha",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "The Pyrenees mountains are located on the border of which two countries?",
+			"summary": "Pyrenees mountains",
+			"questionEs": "¿En la frontera de qué dos países se encuentran las montañas de los Pirineos?",
+			"a1": {
+				"answer": "France and Spain",
+				"answerEs": "Francia y España",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Italy and Switzerland",
+				"answerEs": "Italia y Suiza",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Norway and Sweden",
+				"answerEs": "Noruega y Suecia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Russia and Ukraine",
+				"answerEs": "Rusia y Ucrania",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What year did the New Orleans Saints win the Super Bowl?",
+			"summary": "New Orleans Saints",
+			"questionEs": "¿En qué año los New Orleans Saints ganaron el Super Bowl?",
+			"a1": {
+				"answer": "2010",
+				"answerEs": "2010",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "2008",
+				"answerEs": "2008",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "2009",
+				"answerEs": "2009",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "2011",
+				"answerEs": "2011",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-11 00:00:00.000": {
+		"number": 5,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What is the last letter of the Greek alphabet?",
+			"questionEs": "¿Cuál es la última letra del alfabeto griego?",
+			"a1": {
+				"answer": "Omega",
+				"answerEs": "Omega",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Mu",
+				"answerEs": "Mu",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Epsilon",
+				"answerEs": "épsilon",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Kappa",
+				"answerEs": "Kappa",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Celebrities",
+			"question": "What was the cause of Marilyn Monroes suicide?",
+			"questionEs": "¿Cuál fue la causa del suicidio de Marilyn Monroe?",
+			"a1": {
+				"answer": "Drug Overdose",
+				"answerEs": "Sobredosis de droga",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Knife Attack",
+				"answerEs": "Ataque con cuchillo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "House Fire",
+				"answerEs": "fuego de la casa",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Gunshot",
+				"answerEs": "Cañonazo",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "The acronym &quot;RIP&quot; stands for which of these?",
+			"questionEs": "¿El acrónimo \"RIP\" significa cuál de estos?",
+			"a1": {
+				"answer": "Routing Information Protocol",
+				"answerEs": "Protocolo de información de enrutamiento",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Runtime Instance Processes",
+				"answerEs": "Procesos de instancias de tiempo de ejecución",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Regular Interval Processes",
+				"answerEs": "Procesos de intervalo regular",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Routine Inspection Protocol",
+				"answerEs": "Protocolo de inspección de rutina",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which of the following is the longest river in Europe?",
+			"questionEs": "¿Cuál de los siguientes es el río más largo de Europa?",
+			"a1": {
+				"answer": "Volga",
+				"answerEs": "Volga",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Danube",
+				"answerEs": "Danubio",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ural",
+				"answerEs": "Ural",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Dnieper",
+				"answerEs": "Dniéper",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Who won the 2015 Formula 1 World Championship?",
+			"questionEs": "¿Quién ganó el Campeonato Mundial de Fórmula 1 de 2015?",
+			"a1": {
+				"answer": "Lewis Hamilton",
+				"answerEs": "Lewis Hamilton",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Nico Rosberg",
+				"answerEs": "nico rosberg",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Sebastian Vettel",
+				"answerEs": "Sebastián Vettel",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Jenson Button",
+				"answerEs": "botón de jenson",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-12 00:00:00.000": {
+		"number": 6,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+			"questionEs": "Disney's Haunted Mansion es el hogar de un trío de fantasmas que hacen autostop. ¿Cuál de estos NO es uno de ellos?",
+			"a1": {
+				"answer": "Harry",
+				"answerEs": "Harry",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Gus",
+				"answerEs": "gus",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Phineas",
+				"answerEs": "phineas",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Ezra",
+				"answerEs": "Esdras",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Art",
+			"question": "What nationality was the surrealist painter Salvador Dali?",
+			"questionEs": "¿De qué nacionalidad era el pintor surrealista Salvador Dalí?",
+			"a1": {
+				"answer": "Spanish",
+				"answerEs": "español",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Italian",
+				"answerEs": "italiano",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "French",
+				"answerEs": "Francés",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Portuguese",
+				"answerEs": "portugués",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "In computing, what does MIDI stand for?",
+			"questionEs": "En informática, ¿qué significa MIDI?",
+			"a1": {
+				"answer": "Musical Instrument Digital Interface",
+				"answerEs": "Interfase Digital de Instrumentos Musicales",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Musical Interface of Digital Instruments",
+				"answerEs": "Interfaz Musical de Instrumentos Digitales",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Modular Interface of Digital Instruments",
+				"answerEs": "Interfaz Modular de Instrumentos Digitales",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Musical Instrument Data Interface",
+				"answerEs": "Interfaz de datos de instrumentos musicales",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the 15th letter of the Greek alphabet?",
+			"questionEs": "¿Cuál es la decimoquinta letra del alfabeto griego?",
+			"a1": {
+				"answer": "Omicron (&Omicron;)",
+				"answerEs": "Omicrón (Ο)",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sigma (&Sigma;)",
+				"answerEs": "Sigma (Σ)",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Pi (&Pi;)",
+				"answerEs": "Pi (Π)",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Nu (&Nu;)",
+				"answerEs": "Nu (n)",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which NBA player has the most games played over the course of their career?",
+			"questionEs": "¿Qué jugador de la NBA ha jugado más partidos a lo largo de su carrera?",
+			"a1": {
+				"answer": "Robert Parish",
+				"answerEs": "Parroquia de Roberto",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Kareem Abdul-Jabbar",
+				"answerEs": "Kareem Abdul-Jabbar",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Kevin Garnett",
+				"answerEs": "kevin garnett",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Kobe Bryant",
+				"answerEs": "Kobe Bryant",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-13 00:00:00.000": {
+		"number": 7,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What is the romanized Japanese word for &quot;university&quot;?",
+			"questionEs": "¿Cuál es la palabra japonesa romanizada para \"universidad\"?",
+			"a1": {
+				"answer": "Daigaku",
+				"answerEs": "Daigaku",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Toshokan",
+				"answerEs": "Toshokán",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Jimusho",
+				"answerEs": "jimusho",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Shokudou",
+				"answerEs": "Shokudō",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Music",
+			"question": "Which of these songs did Jimi Hendrix cover?",
+			"questionEs": "¿Cuál de estas canciones hizo un cover de Jimi Hendrix?",
+			"a1": {
+				"answer": "All of these songs",
+				"answerEs": "Todas estas canciones",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+				"answerEs": "sargento Banda del club de corazones solitarios de Pepper",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "All Along the Watchtower",
+				"answerEs": "A lo largo de la torre de vigilancia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "House of the Rising Sun",
+				"answerEs": "casa del Sol naciente",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What does LTS stand for in the software market?",
+			"questionEs": "¿Qué significa LTS en el mercado del software?",
+			"a1": {
+				"answer": "Long Term Support",
+				"answerEs": "Soporte a largo plazo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Long Taco Service",
+				"answerEs": "Servicio de Tacos Largos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ludicrous Transfer Speed",
+				"answerEs": "Velocidad de transferencia ridícula",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Ludicrous Turbo Speed",
+				"answerEs": "Velocidad turbo ridícula",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Where would you find the &quot;Spanish Steps&quot;?",
+			"questionEs": "¿Dónde encontrarías la \"Escalinata de la Plaza de España\"?",
+			"a1": {
+				"answer": "Rome, Italy",
+				"answerEs": "Roma, Italia",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Barcelona, Spain",
+				"answerEs": "Barcelona, ​​España",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Berlin, Germany",
+				"answerEs": "Berlín, Alemania",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "London, England",
+				"answerEs": "Londres, Inglaterra",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+			"questionEs": "¿Qué jugador masculino ganó la medalla de oro de tenis de mesa individual en los Juegos Olímpicos de 2016?",
+			"a1": {
+				"answer": "Ma Long (China)",
+				"answerEs": "Ma Long (China)",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Zhang Jike (China)",
+				"answerEs": "Zhang Jike (China)",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Jun Mizutani (Japan)",
+				"answerEs": "Jun Mizutani (Japón)",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Vladimir Samsonov (Belarus)",
+				"answerEs": "Vladimir Samsonov (Bielorrusia)",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-14 00:00:00.000": {
+		"number": 8,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+			"questionEs": "¿Qué nombre representa la letra \"M\" en el alfabeto fonético de la OTAN?",
+			"a1": {
+				"answer": "Mike",
+				"answerEs": "Miguel",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Matthew",
+				"answerEs": "mateo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Mark",
+				"answerEs": "Marca",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Max",
+				"answerEs": "máx.",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Musicals & Theatres",
+			"question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+			"questionEs": "¿Qué obra de Shakespeare inspiró el musical 'West Side Story'?",
+			"a1": {
+				"answer": "Romeo &amp; Juliet",
+				"answerEs": "Romeo Julieta",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Hamlet",
+				"answerEs": "Aldea",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Macbeth",
+				"answerEs": "Macbeth",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Othello",
+				"answerEs": "Otelo",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+			"questionEs": "¿Cuál es el nombre que se le da a la capa 4 del modelo de interconexión de sistemas abiertos (ISO)?",
+			"a1": {
+				"answer": "Transport",
+				"answerEs": "Transporte",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Session",
+				"answerEs": "Sesión",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Data link",
+				"answerEs": "Enlace de datos",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Network",
+				"answerEs": "Red",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which nation claims ownership of Antarctica?",
+			"questionEs": "¿Qué nación reclama la propiedad de la Antártida?",
+			"a1": {
+				"answer": "No one, but there are claims.",
+				"answerEs": "Nadie, pero hay reclamos.",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "United States of America",
+				"answerEs": "Estados Unidos de América",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "United Nations",
+				"answerEs": "Naciones Unidas",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Australia",
+				"answerEs": "Australia",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+			"questionEs": "¿Qué equipo de fútbol ganó el campeonato de la Copa América 2015?",
+			"a1": {
+				"answer": "Chile",
+				"answerEs": "Chile",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Argentina",
+				"answerEs": "Argentina",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Brazil",
+				"answerEs": "Brasil",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Paraguay",
+				"answerEs": "Paraguay",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-15 00:00:00.000": {
+		"number": 9,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What character was once considered to be the 27th letter of the alphabet?",
+			"questionEs": "¿Qué carácter se consideró alguna vez como la letra 27 del alfabeto?",
+			"a1": {
+				"answer": "Ampersand",
+				"answerEs": "Y comercial",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Interrobang",
+				"answerEs": "Interrobang",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Tilde",
+				"answerEs": "tilde",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Pilcrow",
+				"answerEs": "pilcrow",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Board Games",
+			"question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+			"questionEs": "¿Cuál de estos no es un juego real de la serie Dungeons & Dragons?",
+			"a1": {
+				"answer": "Extreme Dungeons &amp; Dragons",
+				"answerEs": "Dragones y mazmorras extremas",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Advanced Dungeons &amp; Dragons",
+				"answerEs": "Dragones y mazmorras avanzados",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Dungeons &amp; Dragons 3.5th edition",
+				"answerEs": "Dragones y mazmorras 3.5ª edición",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Advanced Dungeons &amp; Dragons 2nd edition",
+				"answerEs": "Dragones y mazmorras avanzadas 2ª edición",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What port does HTTP run on?",
+			"questionEs": "¿En qué puerto se ejecuta HTTP?",
+			"a1": {
+				"answer": "80",
+				"answerEs": "80",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "53",
+				"answerEs": "53",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "443",
+				"answerEs": "443",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "23",
+				"answerEs": "23",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which city is the capital of the United States of America?",
+			"questionEs": "¿Qué ciudad es la capital de los Estados Unidos de América?",
+			"a1": {
+				"answer": "Washington D.C",
+				"answerEs": "Washington DC",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Seattle",
+				"answerEs": "Seattle",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Albany",
+				"answerEs": "Albany",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Los Angeles",
+				"answerEs": "los Angeles",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+			"questionEs": "¿Quién era la luchadora profesional británica Shirley Crabtree más conocida?",
+			"a1": {
+				"answer": "Big Daddy",
+				"answerEs": "Papá grande",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Giant Haystacks",
+				"answerEs": "Pajares gigantes",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Kendo Nagasaki",
+				"answerEs": "Kendo Nagasaki",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Masambula",
+				"answerEs": "Masambula",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-16 00:00:00.000": {
+		"number": 10,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What is the French word for &quot;hat&quot;?",
+			"questionEs": "¿Cuál es la palabra francesa para \"sombrero\"?",
+			"a1": {
+				"answer": "Chapeau",
+				"answerEs": "encabezamiento",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Bonnet",
+				"answerEs": "Capó",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": " &Eacute;charpe",
+				"answerEs": "Écharpe",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": " Casque",
+				"answerEs": "Casque",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Cartoon & Animations",
+			"question": "In the &quot;Star Wars&quot; universe, what species is Grand Admiral Thrawn?",
+			"questionEs": "En el universo de \"Star Wars\", ¿de qué especie es el Gran Almirante Thrawn?",
+			"a1": {
+				"answer": "Chiss",
+				"answerEs": "Chiss",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Gungans",
+				"answerEs": "gunganos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Pantorans",
+				"answerEs": "pantoranos",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Twi&#039;lek",
+				"answerEs": "Twi'lek",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+			"questionEs": "¿En qué ciudad de Silicon Valley se encuentra la sede de Nvidia?",
+			"a1": {
+				"answer": "Santa Clara",
+				"answerEs": "Santa Clara",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Palo Alto",
+				"answerEs": "palo Alto",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Cupertino",
+				"answerEs": "Cupertino",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Mountain View",
+				"answerEs": "vista desde la montaña",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+			"questionEs": "Todos los siguientes países tienen reclamos oficiales de territorio en la Antártida, EXCEPTO:",
+			"a1": {
+				"answer": "United States",
+				"answerEs": "Estados Unidos",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Australia",
+				"answerEs": "Australia",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Chile",
+				"answerEs": "Chile",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Norway",
+				"answerEs": "Noruega",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "In baseball, how many fouls are an out?",
+			"questionEs": "En béisbol, ¿cuántas faltas son un out?",
+			"a1": {
+				"answer": "0",
+				"answerEs": "0",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "5",
+				"answerEs": "5",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "3",
+				"answerEs": "3",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "2",
+				"answerEs": "2",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-17 00:00:00.000": {
+		"number": 11,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+			"questionEs": "¿Dónde está la estación de tren \"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch\"?",
+			"a1": {
+				"answer": "Wales",
+				"answerEs": "Gales",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Moldova",
+				"answerEs": "Moldavia",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Czech Republic",
+				"answerEs": "Republica checa",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Denmark",
+				"answerEs": "Dinamarca",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Video Games",
+			"question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+			"questionEs": "En el juego \"Overwatch\", ¿cuáles son los nombres de los dos criminales australianos de la facción Junkers?",
+			"a1": {
+				"answer": "Junkrat and Roadhog",
+				"answerEs": "Junkrat y Roadhog",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Roadrat and Junkhog",
+				"answerEs": "Roadrat y Junkhog",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ana and Pharah",
+				"answerEs": "ana y fara",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "McCree and Deadeye",
+				"answerEs": "McCree y Deadeye",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+			"questionEs": "Lenovo adquirió la división de computadoras personales de IBM, incluida la línea ThinkPad de computadoras portátiles y tabletas, ¿en qué año?",
+			"a1": {
+				"answer": "2005",
+				"answerEs": "2005",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "1999",
+				"answerEs": "1999",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "2002",
+				"answerEs": "2002",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "2008",
+				"answerEs": "2008",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the capital of the State of Washington, United States?",
+			"questionEs": "¿Cuál es la capital del Estado de Washington, Estados Unidos?",
+			"a1": {
+				"answer": "Olympia",
+				"answerEs": "Olimpia",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Washington D.C.",
+				"answerEs": "Washington DC.",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Seattle",
+				"answerEs": "Seattle",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Yukon",
+				"answerEs": "Yukón",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+			"questionEs": "¿Cuál es la longitud exacta de una parte no curva en el carril 1 de una pista olímpica?",
+			"a1": {
+				"answer": "84.39m",
+				"answerEs": "84,39 m",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "100m",
+				"answerEs": "100m",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "100yd",
+				"answerEs": "100 yardas",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "109.36yd",
+				"answerEs": "109.36 yardas",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-18 00:00:00.000": {
+		"number": 12,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+			"questionEs": "¿Las palabras \"bungalow\" y \"champú\" se originan en los idiomas de qué país?",
+			"a1": {
+				"answer": "India",
+				"answerEs": "India",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Papua New Guinea",
+				"answerEs": "Papúa Nueva Guinea",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ethiopia",
+				"answerEs": "Etiopía",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "China",
+				"answerEs": "Porcelana",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+			"questionEs": "En la novela 1984, escrita por George Orwell, ¿cómo se llama el régimen totalitario que controla Oceanía?",
+			"a1": {
+				"answer": "INGSOC",
+				"answerEs": "INGSOC",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Neo-Bolshevism",
+				"answerEs": "neobolchevismo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Obliteration of the Self",
+				"answerEs": "Obliteración del yo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Earth Alliance",
+				"answerEs": "Alianza de la Tierra",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What is the domain name for the country Tuvalu?",
+			"questionEs": "¿Cuál es el nombre de dominio para el país Tuvalu?",
+			"a1": {
+				"answer": ".tv",
+				"answerEs": ".televisión",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": ".tu",
+				"answerEs": ".tu",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": ".tt",
+				"answerEs": ".tt",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": ".tl",
+				"answerEs": ".tl",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the capital of Peru?",
+			"questionEs": "¿Cuál es la capital del Perú?",
+			"a1": {
+				"answer": "Lima",
+				"answerEs": "lima",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Santiago",
+				"answerEs": "santiago",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Montevideo",
+				"answerEs": "Montevideo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Buenos Aires",
+				"answerEs": "Buenos Aires",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+			"questionEs": "¿En qué puente comienza la regata anual de Oxford y Cambridge?",
+			"a1": {
+				"answer": "Putney",
+				"answerEs": "Putney",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Hammersmith",
+				"answerEs": "herrero",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Vauxhall ",
+				"answerEs": "opel",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Battersea",
+				"answerEs": "battersea",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-19 00:00:00.000": {
+		"number": 13,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "The word &quot;abulia&quot; means which of the following?",
+			"questionEs": "¿La palabra \"abulia\" significa cuál de los siguientes?",
+			"a1": {
+				"answer": "The inability to make decisions",
+				"answerEs": "La incapacidad para tomar decisiones.",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The inability to stand up",
+				"answerEs": "La incapacidad para ponerse de pie",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The inability to concentrate on anything",
+				"answerEs": "La incapacidad de concentrarse en nada.",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "A feverish desire to rip one&#039;s clothes off",
+				"answerEs": "Un deseo febril de arrancarse la ropa.",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+			"questionEs": "J.K. Rowling completó \"Harry Potter y las Reliquias de la Muerte\" ¿en qué hotel de Edimburgo, Escocia?",
+			"a1": {
+				"answer": "The Balmoral",
+				"answerEs": "el balmoral",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The Dunstane Hotel",
+				"answerEs": "El hotel Dunstane",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Hotel Novotel",
+				"answerEs": "Hotel Novotel",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Sheraton Grand Hotel &amp; Spa",
+				"answerEs": "Sheraton Gran Hotel & Spa",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "When Gmail first launched, how much storage did it provide for your email?",
+			"questionEs": "Cuando Gmail se lanzó por primera vez, ¿cuánto almacenamiento proporcionó para su correo electrónico?",
+			"a1": {
+				"answer": "1GB",
+				"answerEs": "1 GB",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "512MB",
+				"answerEs": "512 MB",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "5GB",
+				"answerEs": "5GB",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Unlimited",
+				"answerEs": "Ilimitado",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which country has the abbreviation &quot;CH&quot;?",
+			"questionEs": "¿Qué país tiene la abreviatura \"CH\"?",
+			"a1": {
+				"answer": "Switzerland",
+				"answerEs": "Suiza",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "China",
+				"answerEs": "Porcelana",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Canada",
+				"answerEs": "Canadá",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "No Country",
+				"answerEs": "Ningún país",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which country has hosted the 2018 FIFA World Cup?",
+			"questionEs": "¿Qué país ha sido sede de la Copa Mundial de la FIFA 2018?",
+			"a1": {
+				"answer": "Russia",
+				"answerEs": "Rusia",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Germany",
+				"answerEs": "Alemania",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "United States",
+				"answerEs": "Estados Unidos",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Saudi Arabia",
+				"answerEs": "Arabia Saudita",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-20 00:00:00.000": {
+		"number": 14,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+			"questionEs": "¿Qué significa la 'S' en la abreviatura SIM, como en tarjeta SIM?",
+			"a1": {
+				"answer": "Subscriber",
+				"answerEs": "Abonado",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Single",
+				"answerEs": "Soltero",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Secure",
+				"answerEs": "Seguro",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Solid",
+				"answerEs": "Sólido",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+			"questionEs": "En el universo de Harry Potter, ¿con quién termina casándose Draco Malfoy?",
+			"a1": {
+				"answer": "Astoria Greengrass",
+				"answerEs": "hierba verde astoria",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Pansy Parkinson",
+				"answerEs": "pensamiento parkinson",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Millicent Bulstrode",
+				"answerEs": "Millicent Bullstrode",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Hermione Granger",
+				"answerEs": "Hermione Granger",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What does LTS stand for in the software market?",
+			"questionEs": "¿Qué significa LTS en el mercado del software?",
+			"a1": {
+				"answer": "Long Term Support",
+				"answerEs": "Soporte a largo plazo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Long Taco Service",
+				"answerEs": "Servicio de Tacos Largos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ludicrous Transfer Speed",
+				"answerEs": "Velocidad de transferencia ridícula",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Ludicrous Turbo Speed",
+				"answerEs": "Velocidad turbo ridícula",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which is the largest city in Morocco?",
+			"questionEs": "¿Cuál es la ciudad más grande de Marruecos?",
+			"a1": {
+				"answer": "Casablanca",
+				"answerEs": "casablanca",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Rabat",
+				"answerEs": "Rabat",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Fes",
+				"answerEs": "Fez",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Sale",
+				"answerEs": "Rebaja",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+			"questionEs": "¿Qué piloto de Fórmula 1 cambió de equipo a mitad de la temporada 2017?",
+			"a1": {
+				"answer": "Carlos Sainz Jr.",
+				"answerEs": "Carlos Sainz jr.",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Daniil Kvyat",
+				"answerEs": "daniil kvyat",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Jolyon Palmer",
+				"answerEs": "jolyon palmer",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Rio Haryanto",
+				"answerEs": "Río Haryanto",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-21 00:00:00.000": {
+		"number": 15,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "In what year was McDonald&#039;s founded?",
+			"questionEs": "¿En qué año se fundó McDonald's?",
+			"a1": {
+				"answer": "1955",
+				"answerEs": "1955",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "1964",
+				"answerEs": "1964",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "1951",
+				"answerEs": "1951",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "1947",
+				"answerEs": "1947",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+			"questionEs": "¿Quién escribió \"Historia de dos ciudades\"?",
+			"a1": {
+				"answer": "Charles Dickens",
+				"answerEs": "Carlos Dickens",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Charles Darwin",
+				"answerEs": "charles darwin",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Mark Twain",
+				"answerEs": "Mark Twain",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Roald Dahl",
+				"answerEs": "Roald Dahl",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What is the most preferred image format used for logos in the Wikimedia database?",
+			"questionEs": "¿Cuál es el formato de imagen preferido para los logotipos en la base de datos de Wikimedia?",
+			"a1": {
+				"answer": ".svg",
+				"answerEs": ".svg",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": ".png",
+				"answerEs": ".png",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": ".jpeg",
+				"answerEs": ".jpeg",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": ".gif",
+				"answerEs": ".gif",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+			"questionEs": "¿Cuál es la ruta de escalada más común para la segunda montaña más alta del mundo, K2?",
+			"a1": {
+				"answer": "Abruzzi Spur",
+				"answerEs": "Espuela de los Abruzos",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Magic Line",
+				"answerEs": "línea mágica",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Cesen Route",
+				"answerEs": "Ruta Cesen",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Polish Line",
+				"answerEs": "Línea polaca",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which NBA player has the most games played over the course of their career?",
+			"questionEs": "¿Qué jugador de la NBA ha jugado más partidos a lo largo de su carrera?",
+			"a1": {
+				"answer": "Robert Parish",
+				"answerEs": "Parroquia de Roberto",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Kareem Abdul-Jabbar",
+				"answerEs": "Kareem Abdul-Jabbar",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Kevin Garnett",
+				"answerEs": "kevin garnett",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Kobe Bryant",
+				"answerEs": "Kobe Bryant",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-22 00:00:00.000": {
+		"number": 16,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Red Vines is a brand of what type of candy?",
+			"questionEs": "¿Red Vines es una marca de qué tipo de dulces?",
+			"a1": {
+				"answer": "Licorice",
+				"answerEs": "Regaliz",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Lollipop",
+				"answerEs": "Chupete",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Chocolate",
+				"answerEs": "Chocolate",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Bubblegum",
+				"answerEs": "Chicle",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+			"questionEs": "¿Qué autor estadounidense también fue un escritor de viajes en ciernes y escribió sobre sus aventuras con su perro Charley?",
+			"a1": {
+				"answer": "John Steinbeck",
+				"answerEs": "John Steinbeck",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "F. Scott Fitzgerald",
+				"answerEs": "F. Scott Fitzgerald",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ernest Hemingway",
+				"answerEs": "Ernest Hemingway",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "William Faulkner",
+				"answerEs": "Guillermo Faulkner",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+			"questionEs": "El fabricante OEM de computadoras Clevo, conocido por su línea de computadoras portátiles Sager, ¿en qué país tiene su sede?",
+			"a1": {
+				"answer": "Taiwan",
+				"answerEs": "Taiwán",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "United States",
+				"answerEs": "Estados Unidos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Germany",
+				"answerEs": "Alemania",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "China (People&#039;s Republic of)",
+				"answerEs": "China (República Popular de)",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+			"questionEs": "El prefijo Sino- (Como en Sino-Americano) se usa para referirse a qué nacionalidad?",
+			"a1": {
+				"answer": "Chinese",
+				"answerEs": "Chino",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Japanese",
+				"answerEs": "japonés",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Russian",
+				"answerEs": "ruso",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Indian",
+				"answerEs": "indio",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+			"questionEs": "Este comentarista deportivo de la televisión canadiense es conocido por su papel en \"Hockey Night in Canada\", un programa de comentarios durante los partidos de hockey.",
+			"a1": {
+				"answer": "Don Cherry",
+				"answerEs": "don cerezo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Don McKellar",
+				"answerEs": "Don McKellar",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Don Taylor ",
+				"answerEs": "don taylor",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Donald Sutherland",
+				"answerEs": "donald sutherland",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-23 00:00:00.000": {
+		"number": 17,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What alcoholic drink is made from molasses?",
+			"questionEs": "¿Qué bebida alcohólica se elabora a partir de la melaza?",
+			"a1": {
+				"answer": "Rum",
+				"answerEs": "Ron",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Gin",
+				"answerEs": "Ginebra",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Vodka",
+				"answerEs": "Vodka",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Whisky",
+				"answerEs": "Whisky",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+			"questionEs": "En Alicia en el país de las maravillas, ¿cómo se llama el gatito de Alicia?",
+			"a1": {
+				"answer": "Dinah",
+				"answerEs": "Dina",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Oscar",
+				"answerEs": "Óscar",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Heath",
+				"answerEs": "Brezo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Smokey",
+				"answerEs": "ahumado",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What does the International System of Quantities refer 1024 bytes as?",
+			"questionEs": "¿Cómo se refiere el Sistema Internacional de Cantidades a 1024 bytes?",
+			"a1": {
+				"answer": "Kibibyte",
+				"answerEs": "kibibyte",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Kylobyte",
+				"answerEs": "Kilobyte",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Kilobyte",
+				"answerEs": "Kilobyte",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Kelobyte",
+				"answerEs": "Kelobyte",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What colour is the circle on the Japanese flag?",
+			"questionEs": "¿De qué color es el círculo en la bandera japonesa?",
+			"a1": {
+				"answer": "Red",
+				"answerEs": "Rojo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "White",
+				"answerEs": "Blanco",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Yellow",
+				"answerEs": "Amarillo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Black",
+				"answerEs": "Negro",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+			"questionEs": "¿Qué luchador profesional cayó de las vigas y murió durante un evento de Pay-Per-View en vivo en 1999?",
+			"a1": {
+				"answer": "Owen Hart",
+				"answerEs": "Owen Hart",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Chris Benoit",
+				"answerEs": "Chris Benoit",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Lex Luger",
+				"answerEs": "Lex Luger",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Al Snow",
+				"answerEs": "al nieve",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-24 00:00:00.000": {
+		"number": 18,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "According to the BBPA, what is the most common pub name in the UK?",
+			"questionEs": "Según la BBPA, ¿cuál es el nombre de pub más común en el Reino Unido?",
+			"a1": {
+				"answer": "Red Lion",
+				"answerEs": "León rojo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Royal Oak",
+				"answerEs": "Roble Real",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "White Hart",
+				"answerEs": "ciervo Blanco",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "King&#039;s Head",
+				"answerEs": "cabeza de rey",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Which is NOT a book in the Harry Potter Series?",
+			"questionEs": "¿Cuál NO es un libro de la serie de Harry Potter?",
+			"a1": {
+				"answer": "The House Elf",
+				"answerEs": "El elfo doméstico",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The Chamber of Secrets",
+				"answerEs": "La Cámara de secretos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The Prisoner of Azkaban",
+				"answerEs": "El prisionero de Azkaban",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "The Deathly Hallows",
+				"answerEs": "Las reliquias de la muerte",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "In web design, what does CSS stand for?",
+			"questionEs": "En diseño web, ¿qué significa CSS?",
+			"a1": {
+				"answer": "Cascading Style Sheet",
+				"answerEs": "Hoja estilo cascada",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Counter Strike: Source",
+				"answerEs": "Contraataque: Fuente",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Corrective Style Sheet",
+				"answerEs": "Hoja de estilo correctivo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Computer Style Sheet",
+				"answerEs": "Hoja de estilo de computadora",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the right way to spell the capital of Hungary?",
+			"questionEs": "¿Cuál es la forma correcta de escribir la capital de Hungría?",
+			"a1": {
+				"answer": "Budapest",
+				"answerEs": "budapest",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Boodapest",
+				"answerEs": "Boodapest",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Bhudapest",
+				"answerEs": "budapest",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Budapast",
+				"answerEs": "budapast",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+			"questionEs": "¿A qué equipo venció Inglaterra en la etapa de semifinales para ganar en la final de la Copa del Mundo de 1966?",
+			"a1": {
+				"answer": "Portugal",
+				"answerEs": "Portugal",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "West Germany",
+				"answerEs": "Alemania occidental",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Soviet Union",
+				"answerEs": "Unión Soviética",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Brazil",
+				"answerEs": "Brasil",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-25 00:00:00.000": {
+		"number": 19,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+			"questionEs": "¿Qué significa la \"G\" en \"G-Man\"?",
+			"a1": {
+				"answer": "Government",
+				"answerEs": "Gobierno",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Going",
+				"answerEs": "Yendo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ghost",
+				"answerEs": "Fantasma",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Geronimo",
+				"answerEs": "gerónimo",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+			"questionEs": "¿Quién escribió el cuento infantil \"La cerillera\"?",
+			"a1": {
+				"answer": "Hans Christian Andersen",
+				"answerEs": "Hans Christian Andersen",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Charles Dickens",
+				"answerEs": "Carlos Dickens",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Lewis Carroll",
+				"answerEs": "Lewis Carroll",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Oscar Wilde",
+				"answerEs": "Oscar Wilde",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+			"questionEs": "En \"hexadecimal\", ¿qué color se mostraría a partir del código de color? ¿\"#00FF00\"?",
+			"a1": {
+				"answer": "Green",
+				"answerEs": "Verde",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Red",
+				"answerEs": "Rojo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Blue",
+				"answerEs": "Azul",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Yellow",
+				"answerEs": "Amarillo",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "How many countries border Kyrgyzstan?",
+			"questionEs": "¿Cuántos países limitan con Kirguistán?",
+			"a1": {
+				"answer": "4",
+				"answerEs": "4",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "3",
+				"answerEs": "3",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "1",
+				"answerEs": "1",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "6",
+				"answerEs": "6",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What year did the New Orleans Saints win the Super Bowl?",
+			"questionEs": "¿En qué año los New Orleans Saints ganaron el Super Bowl?",
+			"a1": {
+				"answer": "2010",
+				"answerEs": "2010",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "2008",
+				"answerEs": "2008",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "2009",
+				"answerEs": "2009",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "2011",
+				"answerEs": "2011",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-26 00:00:00.000": {
+		"number": 20,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "The word &quot;astasia&quot; means which of the following?",
+			"questionEs": "La palabra \"astasia\" significa cuál de los siguientes?",
+			"a1": {
+				"answer": "The inability to stand up",
+				"answerEs": "La incapacidad para ponerse de pie",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The inability to make decisions",
+				"answerEs": "La incapacidad para tomar decisiones.",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The inability to concentrate on anything",
+				"answerEs": "La incapacidad de concentrarse en nada.",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "A feverish desire to rip one&#039;s clothes off",
+				"answerEs": "Un deseo febril de arrancarse la ropa.",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+			"questionEs": "En El señor de los anillos, ¿quién es el padre del enano Gimli?",
+			"a1": {
+				"answer": "Gloin",
+				"answerEs": "Glomo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Thorin Oakenshield",
+				"answerEs": "Escudo de roble de Thorin",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Bombur",
+				"answerEs": "bombar",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Dwalin",
+				"answerEs": "Dwalin",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+			"questionEs": "Si tuviera que codificar software en este idioma, solo podría escribir 0 y 1.",
+			"a1": {
+				"answer": "Binary",
+				"answerEs": "Binario",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "JavaScript",
+				"answerEs": "JavaScript",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "C++",
+				"answerEs": "C++",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Python",
+				"answerEs": "Pitón",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What&#039;s the first National Park designated in the United States?",
+			"questionEs": "¿Cuál es el primer Parque Nacional designado en los Estados Unidos?",
+			"a1": {
+				"answer": "Yellowstone",
+				"answerEs": "piedra amarilla",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sequoia ",
+				"answerEs": "Secoya",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Yosemite",
+				"answerEs": "Yosemite",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Rocky Mountain",
+				"answerEs": "montaña rocosa",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "The Los Angeles Dodgers were originally from what U.S. city?",
+			"questionEs": "¿Los Dodgers de Los Ángeles eran originarios de qué ciudad de EE. UU.?",
+			"a1": {
+				"answer": "Brooklyn",
+				"answerEs": "brooklyn",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Las Vegas",
+				"answerEs": "Las Vegas",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Boston",
+				"answerEs": "Bostón",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Seattle",
+				"answerEs": "Seattle",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-27 00:00:00.000": {
+		"number": 21,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+			"questionEs": "¿Qué aerolínea era la propietaria del avión que se estrelló frente a la costa de Nueva Escocia en 1998?",
+			"a1": {
+				"answer": "Swiss Air",
+				"answerEs": "aire suizo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Air France",
+				"answerEs": "Aire Francés",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "British Airways",
+				"answerEs": "British Airways",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "TWA",
+				"answerEs": "TWA",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+			"questionEs": "¿Qué autor coescribió \"El Manifiesto Comunista\" junto a Karl Marx?",
+			"a1": {
+				"answer": "Friedrich Engels",
+				"answerEs": "Federico Engels",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Robert Owen",
+				"answerEs": "Roberto Owen",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Alexander Kerensky",
+				"answerEs": "Alejandro Kerensky",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Paul Lafargue",
+				"answerEs": "Pablo Lafargue",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": ".at is the top-level domain for what country?",
+			"questionEs": "¿.at es el dominio de nivel superior para qué país?",
+			"a1": {
+				"answer": "Austria",
+				"answerEs": "Austria",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Argentina",
+				"answerEs": "Argentina",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Australia",
+				"answerEs": "Australia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Angola",
+				"answerEs": "angola",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which small country is located between the borders of France and Spain?",
+			"questionEs": "¿Qué pequeño país se encuentra entre las fronteras de Francia y España?",
+			"a1": {
+				"answer": "Andorra",
+				"answerEs": "Andorra",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "San Marino",
+				"answerEs": "San Marino",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Vatican City",
+				"answerEs": "Ciudad del Vaticano",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Lichtenstein",
+				"answerEs": "lichtenstein",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What year was hockey legend Wayne Gretzky born?",
+			"questionEs": "¿En qué año nació la leyenda del hockey Wayne Gretzky?",
+			"a1": {
+				"answer": "1961",
+				"answerEs": "1961",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "1965",
+				"answerEs": "1965",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "1959",
+				"answerEs": "1959",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "1963",
+				"answerEs": "1963",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-28 00:00:00.000": {
+		"number": 22,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Which of the following carbonated soft drinks were introduced first?",
+			"questionEs": "¿Cuál de los siguientes refrescos carbonatados se introdujo primero?",
+			"a1": {
+				"answer": "Dr. Pepper",
+				"answerEs": "Dr Pepper",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Coca-Cola",
+				"answerEs": "Coca Cola",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Sprite",
+				"answerEs": "Duende",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Mountain Dew",
+				"answerEs": "Rocío de la montaña",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+			"questionEs": "¿Quién fue el autor de la novela de 1954, \"El señor de las moscas\"?",
+			"a1": {
+				"answer": "William Golding",
+				"answerEs": "Guillermo Golding",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Stephen King",
+				"answerEs": "Stephen King",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "F. Scott Fitzgerald",
+				"answerEs": "F. Scott Fitzgerald",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Hunter Fox",
+				"answerEs": "zorro cazador",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What was the first Android version specifically optimized for tablets?",
+			"questionEs": "¿Cuál fue la primera versión de Android optimizada específicamente para tabletas?",
+			"a1": {
+				"answer": "Honeycomb",
+				"answerEs": "Panal",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Eclair",
+				"answerEs": "Éclair",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Froyo",
+				"answerEs": "Froyó",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Marshmellow",
+				"answerEs": "malvavisco",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "The Hunua Ranges is located in...",
+			"questionEs": "Hunua Ranges se encuentra en...",
+			"a1": {
+				"answer": "New Zealand",
+				"answerEs": "Nueva Zelanda",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Nepal",
+				"answerEs": "Nepal",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "China",
+				"answerEs": "Porcelana",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Mexico",
+				"answerEs": "México",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which team has won the most Stanley Cups in the NHL?",
+			"questionEs": "¿Qué equipo ha ganado más Copas Stanley en la NHL?",
+			"a1": {
+				"answer": "Montreal Canadians",
+				"answerEs": "Canadienses de Montreal",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Chicago Blackhawks",
+				"answerEs": "Blackhawks de Chicago",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Toronto Maple Leafs",
+				"answerEs": "las hojas de arce de Toronto",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Detroit Red Wings",
+				"answerEs": "Alas rojas de Detroit",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-29 00:00:00.000": {
+		"number": 23,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Which of these words means &quot;idle spectator&quot;?",
+			"questionEs": "¿Cuál de estas palabras significa \"espectador ocioso\"?",
+			"a1": {
+				"answer": "Gongoozler",
+				"answerEs": "Gongoozler",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Gossypiboma",
+				"answerEs": "Gossypiboma",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Jentacular",
+				"answerEs": "Jentacular",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Meupareunia",
+				"answerEs": "Meupareunia",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+			"questionEs": "En Romance of the Three Kingdoms, ¿quién no era miembro del Juramento de Peach Garden?",
+			"a1": {
+				"answer": "Zhao Yun",
+				"answerEs": "Zhao Yun",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Liu Bei",
+				"answerEs": "liu bei",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Guan Yu",
+				"answerEs": "guan yu",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Zhang Fei",
+				"answerEs": "Zhang Fei",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What does RAID stand for?",
+			"questionEs": "¿Qué significa RAID?",
+			"a1": {
+				"answer": "Redundant Array of Independent Disks",
+				"answerEs": "Matriz redundante de discos independientes",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Rapid Access for Indexed Devices",
+				"answerEs": "Acceso rápido para dispositivos indexados",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Range of Applications with Identical Designs",
+				"answerEs": "Gama de aplicaciones con diseños idénticos",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Randomized Abstract Identification Description",
+				"answerEs": "Resumen aleatorizado Identificación Descripción",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the 15th letter of the Greek alphabet?",
+			"questionEs": "¿Cuál es la decimoquinta letra del alfabeto griego?",
+			"a1": {
+				"answer": "Omicron (&Omicron;)",
+				"answerEs": "Omicrón (Ο)",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sigma (&Sigma;)",
+				"answerEs": "Sigma (Σ)",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Pi (&Pi;)",
+				"answerEs": "Pi (Π)",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Nu (&Nu;)",
+				"answerEs": "Nu (n)",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+			"questionEs": "¿Qué jugadora ganó la medalla de oro de individuales de tenis de mesa en los Juegos Olímpicos de 2016?",
+			"a1": {
+				"answer": "DING Ning (China)",
+				"answerEs": "DING Ning (China)",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "LI Xiaoxia (China)",
+				"answerEs": "LI Xiaoxia (China)",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Ai FUKUHARA (Japan)",
+				"answerEs": "Ai FUKUHARA (Japón)",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Song KIM (North Korea)",
+				"answerEs": "Canción KIM (Corea del Norte)",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-30 00:00:00.000": {
+		"number": 24,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+			"questionEs": "La popularidad del productor de música electrónica Kygo se disparó después de cierto remix. ¿Qué canción remezcló?",
+			"a1": {
+				"answer": "Ed Sheeran - I See Fire",
+				"answerEs": "Ed Sheeran - Veo fuego",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Marvin Gaye - Sexual Healing",
+				"answerEs": "marvin gaye - curación sexual",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Coldplay - Midnight",
+				"answerEs": "Coldplay - Medianoche",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "a-ha - Take On Me",
+				"answerEs": "a-ha - Enfréntate a mí",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+			"questionEs": "¿Cuál es el nombre de la pandilla de la que Ponyboy forma parte en el libro The Outsiders?",
+			"a1": {
+				"answer": "The Greasers",
+				"answerEs": "los engrasadores",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The Outsiders",
+				"answerEs": "Los forasteros",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The Mafia",
+				"answerEs": "La mafia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "The Socs",
+				"answerEs": "los socs",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": ".rs is the top-level domain for what country?",
+			"questionEs": "¿.rs es el dominio de nivel superior para qué país?",
+			"a1": {
+				"answer": "Serbia",
+				"answerEs": "Serbia",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Romania",
+				"answerEs": "Rumania",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Russia",
+				"answerEs": "Rusia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Rwanda",
+				"answerEs": "Ruanda",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+			"questionEs": "¿Cuál es el único estado de los Estados Unidos que no tiene una bandera en forma de 4 bordes?",
+			"a1": {
+				"answer": "Ohio",
+				"answerEs": "Ohio",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Florida",
+				"answerEs": "Florida",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Idaho",
+				"answerEs": "Idaho",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "New Mexico",
+				"answerEs": "Nuevo Mexico",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+			"questionEs": "¿Qué piloto ha sido campeón del mundo de Fórmula 1 por un récord de 7 veces?",
+			"a1": {
+				"answer": "Michael Schumacher",
+				"answerEs": "Michael Schumacher",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Ayrton Senna",
+				"answerEs": "Ayrton Senna",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Fernando Alonso",
+				"answerEs": "fernando alonso",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Jim Clark",
+				"answerEs": "jim clark",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-05-31 00:00:00.000": {
+		"number": 25,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "A statue of Charles Darwin sits in what London museum?",
+			"questionEs": "¿En qué museo de Londres se encuentra una estatua de Charles Darwin?",
+			"a1": {
+				"answer": "Natural History Museum",
+				"answerEs": "Museo de Historia Natural",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Tate",
+				"answerEs": "Tate",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "British Museum",
+				"answerEs": "Museo Británico",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Science Museum",
+				"answerEs": "Museo de Ciencia",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In which classic novel is there a character named Homer Simpson?",
+			"questionEs": "¿En qué novela clásica hay un personaje llamado Homer Simpson?",
+			"a1": {
+				"answer": "The Day of the Locust",
+				"answerEs": "El día de la langosta",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Catch-22",
+				"answerEs": "22 capturas",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Of Mice and Men",
+				"answerEs": "De ratones y hombres",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "A Separate Peace",
+				"answerEs": "Una paz separada",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+			"questionEs": "En el lenguaje de programación Java, ¿cuál de estas palabras clave pondría en una variable para asegurarse de que no se modifique?",
+			"a1": {
+				"answer": "Final",
+				"answerEs": "Final",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Static",
+				"answerEs": "Estático",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Private",
+				"answerEs": "Privado",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Public",
+				"answerEs": "Público",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "In which English county is the city of Portsmouth?",
+			"questionEs": "¿En qué condado inglés se encuentra la ciudad de Portsmouth?",
+			"a1": {
+				"answer": "Hampshire",
+				"answerEs": "hampshire",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Oxfordshire",
+				"answerEs": "oxfordshire",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Buckinghamshire",
+				"answerEs": "Buckinghamshire",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Surrey",
+				"answerEs": "Surrey",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "In bowling, what is the term used for getting three consecutive strikes?",
+			"questionEs": "En los bolos, ¿cuál es el término que se usa para obtener tres strikes consecutivos?",
+			"a1": {
+				"answer": "Turkey",
+				"answerEs": "Pavo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Flamingo",
+				"answerEs": "Flamenco",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Birdie",
+				"answerEs": "Pajarito",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Eagle",
+				"answerEs": "Águila",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-06-01 00:00:00.000": {
+		"number": 26,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+			"questionEs": "¿Dónde está la estación de tren \"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch\"?",
+			"a1": {
+				"answer": "Wales",
+				"answerEs": "Gales",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Moldova",
+				"answerEs": "Moldavia",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Czech Republic",
+				"answerEs": "Republica checa",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Denmark",
+				"answerEs": "Dinamarca",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+			"questionEs": "¿Cómo se llama el padre de Harry Potter?",
+			"a1": {
+				"answer": "James Potter",
+				"answerEs": "james potter",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Joey Potter",
+				"answerEs": "joey potter",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Frank Potter",
+				"answerEs": "alfarero franco",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Hairy Potter Sr.",
+				"answerEs": "alfarero peludo sr.",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+			"questionEs": "¿Cuál de estos era el nombre de un error encontrado en abril de 2014 en la biblioteca de criptografía OpenSSL disponible públicamente?",
+			"a1": {
+				"answer": "Heartbleed",
+				"answerEs": "Heartbleed",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Shellshock",
+				"answerEs": "Neurosis de guerra",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Corrupted Blood",
+				"answerEs": "Sangre corrupta",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Shellscript",
+				"answerEs": "shellscript",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What is the fifth largest country by area?",
+			"questionEs": "¿Cuál es el quinto país más grande por área?",
+			"a1": {
+				"answer": "Brazil",
+				"answerEs": "Brasil",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "United States",
+				"answerEs": "Estados Unidos",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Australia",
+				"answerEs": "Australia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "India",
+				"answerEs": "India",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "What year was hockey legend Wayne Gretzky born?",
+			"questionEs": "¿En qué año nació la leyenda del hockey Wayne Gretzky?",
+			"a1": {
+				"answer": "1961",
+				"answerEs": "1961",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "1965",
+				"answerEs": "1965",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "1959",
+				"answerEs": "1959",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "1963",
+				"answerEs": "1963",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-06-02 00:00:00.000": {
+		"number": 27,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What is the Swedish word for &quot;window&quot;?",
+			"questionEs": "¿Cuál es la palabra sueca para \"ventana\"?",
+			"a1": {
+				"answer": "F&ouml;nster",
+				"answerEs": "Fönster",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "H&aring;l",
+				"answerEs": "Hal",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Sk&auml;rm",
+				"answerEs": "Skärm",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Ruta",
+				"answerEs": "Ruta",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+			"questionEs": "¿Cuál de estos NO lee Charlie en Las ventajas de ser un marginado?",
+			"a1": {
+				"answer": "The Grapes of Wrath",
+				"answerEs": "Las uvas de ira",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Hamlet",
+				"answerEs": "Aldea",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The Great Gatsby",
+				"answerEs": "El gran Gatsby",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Peter Pan",
+				"answerEs": "Peter Pan",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What does the &quot;MP&quot; stand for in MP3?",
+			"questionEs": "¿Qué significa \"MP\" en MP3?",
+			"a1": {
+				"answer": "Moving Picture",
+				"answerEs": "Imagen en movimiento",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Music Player",
+				"answerEs": "Reproductor de música",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Multi Pass",
+				"answerEs": "Pase múltiple",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Micro Point",
+				"answerEs": "Micropunto",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which English county will you find the University of East Anglia?",
+			"questionEs": "¿En qué condado inglés encontrarás la Universidad de East Anglia?",
+			"a1": {
+				"answer": "Norfolk",
+				"answerEs": "norfolk",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Suffolk",
+				"answerEs": "suffolk",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Essex",
+				"answerEs": "Essex",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Cambridgeshire",
+				"answerEs": "Cambridgeshire",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which country will host the 2020 Summer Olympics?",
+			"questionEs": "¿Qué país será el anfitrión de los Juegos Olímpicos de Verano 2020?",
+			"a1": {
+				"answer": "Japan",
+				"answerEs": "Japón",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "China",
+				"answerEs": "Porcelana",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Australia",
+				"answerEs": "Australia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Germany",
+				"answerEs": "Alemania",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-06-03 00:00:00.000": {
+		"number": 28,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "What is the name of NASA&rsquo;s most famous space telescope?",
+			"questionEs": "¿Cuál es el nombre del telescopio espacial más famoso de la NASA?",
+			"a1": {
+				"answer": "Hubble Space Telescope",
+				"answerEs": "telescopio espacial Hubble",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Big Eye",
+				"answerEs": "Ojo grande",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Death Star",
+				"answerEs": "Estrella de la Muerte",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Millenium Falcon",
+				"answerEs": "Halcón Milenario",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+			"questionEs": "En The Lies Of Locke Lamora, ¿qué significa \"Lamora\" en Throne Therin?",
+			"a1": {
+				"answer": "Shadow",
+				"answerEs": "Sombra",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Thievery",
+				"answerEs": "Robo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Justice",
+				"answerEs": "Justicia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Chaos",
+				"answerEs": "Caos",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What was the name given to Android 4.3?",
+			"questionEs": "¿Cuál fue el nombre que se le dio a Android 4.3?",
+			"a1": {
+				"answer": "Jelly Bean",
+				"answerEs": "Frijol de jalea",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Lollipop",
+				"answerEs": "Chupete",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Nutella",
+				"answerEs": "Nutella",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Froyo",
+				"answerEs": "Froyó",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "What name was historically used for the Turkish city currently known as Istanbul?",
+			"questionEs": "¿Qué nombre se usó históricamente para la ciudad turca actualmente conocida como Estambul?",
+			"a1": {
+				"answer": "Constantinople",
+				"answerEs": "Constantinopla",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "H&uuml;davendigar",
+				"answerEs": "Hudavendigar",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "S&ouml;ğ&uuml;t",
+				"answerEs": "Söğüt",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Adrianople",
+				"answerEs": "Adrianópolis",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+			"questionEs": "¿Qué fabricante de automóviles ganó las 24 Horas de Le Mans de 2017?",
+			"a1": {
+				"answer": "Porsche",
+				"answerEs": "Porsche",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Toyota",
+				"answerEs": "Toyota",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Audi",
+				"answerEs": "Audi",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Chevrolet",
+				"answerEs": "chevrolet",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-06-04 00:00:00.000": {
+		"number": 29,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "Which of the following is not an Ivy League University?",
+			"questionEs": "¿Cuál de las siguientes no es una universidad de la Ivy League?",
+			"a1": {
+				"answer": "Stanford",
+				"answerEs": "Stanford",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "University of Pennsylvania",
+				"answerEs": "Universidad de Pennsylvania",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Harvard",
+				"answerEs": "harvard",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Princeton",
+				"answerEs": "Princeton",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "Who wrote &quot;Harry Potter&quot;?",
+			"questionEs": "¿Quién escribió \"Harry Potter\"?",
+			"a1": {
+				"answer": "J.K. Rowling",
+				"answerEs": "J.K. Rowling",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "J.R.R. Tolkien",
+				"answerEs": "J.R.R. Tolkien",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Terry Pratchett",
+				"answerEs": "terry pratchett",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Daniel Radcliffe",
+				"answerEs": "Daniel Radcliffe",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "Which RAID array type is associated with data mirroring?",
+			"questionEs": "¿Qué tipo de matriz RAID está asociado con la duplicación de datos?",
+			"a1": {
+				"answer": "RAID 1",
+				"answerEs": "RAID 1",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "RAID 0",
+				"answerEs": "RAID 0",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "RAID 10",
+				"answerEs": "RAID 10",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "RAID 5",
+				"answerEs": "RAID 5",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "Which of these countries is the smallest by population?",
+			"questionEs": "¿Cuál de estos países es el más pequeño por población?",
+			"a1": {
+				"answer": "Norway",
+				"answerEs": "Noruega",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Slovakia",
+				"answerEs": "Eslovaquia",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Finland",
+				"answerEs": "Finlandia",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Hong Kong",
+				"answerEs": "Hong Kong",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Who won the 2011 Stanley Cup?",
+			"questionEs": "¿Quién ganó la Copa Stanley 2011?",
+			"a1": {
+				"answer": "Boston Bruins",
+				"answerEs": "Bruins de boston",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Montreal Canadiens",
+				"answerEs": "Canadienses de Montreal",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "New York Rangers",
+				"answerEs": "guardabosques de nueva york",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Toronto Maple Leafs",
+				"answerEs": "las hojas de arce de Toronto",
+				"isCorrect": false
+			}
+		}
+	},
+	"2022-06-05 00:00:00.000": {
+		"number": 30,
+		"q1": {
+			"category": "General Knowledge",
+			"question": "How tall is the Burj Khalifa?",
+			"questionEs": "¿Qué altura tiene el Burj Khalifa?",
+			"a1": {
+				"answer": "2,722 ft",
+				"answerEs": "2,722 pies",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "2,717 ft",
+				"answerEs": "2,717 pies",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "2,546 ft",
+				"answerEs": "2546 pies",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "3,024 ft",
+				"answerEs": "3,024 pies",
+				"isCorrect": false
+			}
+		},
+		"q2": {
+			"category": "Entertainment: Books",
+			"question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+			"questionEs": "¿Cómo se llamaba el submarino del capitán Nemo en \"20.000 leguas de viaje submarino\"?",
+			"a1": {
+				"answer": "The Nautilus",
+				"answerEs": "el nautilus",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "The Neptune",
+				"answerEs": "el neptuno",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "The Poseidon  ",
+				"answerEs": "El Poseidón",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "The Atlantis",
+				"answerEs": "la atlántida",
+				"isCorrect": false
+			}
+		},
+		"q3": {
+			"category": "Science: Computers",
+			"question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+			"questionEs": "¿Cuál es el nombre en clave de la microarquitectura Intel Core de octava generación lanzada en octubre de 2017?",
+			"a1": {
+				"answer": "Coffee Lake",
+				"answerEs": "lago cafe",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Sandy Bridge",
+				"answerEs": "Sandy Bridge",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Skylake",
+				"answerEs": "lago del cielo",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Broadwell",
+				"answerEs": "Broadwell",
+				"isCorrect": false
+			}
+		},
+		"q4": {
+			"category": "Geography",
+			"question": "On a London Underground map, what colour is the Circle Line?",
+			"questionEs": "En un mapa del metro de Londres, ¿de qué color es la línea circular?",
+			"a1": {
+				"answer": "Yellow",
+				"answerEs": "Amarillo",
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Red",
+				"answerEs": "Rojo",
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Blue",
+				"answerEs": "Azul",
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "Green",
+				"answerEs": "Verde",
+				"isCorrect": false
+			}
+		},
+		"q5": {
+			"category": "Sports",
+			"question": "Josh Mansour is part of what NRL team?",
+			"questionEs": "¿Josh Mansour es parte de qué equipo de NRL?",
+			"a1": {
+				"answer": "Penrith Panthers",
+				"answerEs": null,
+				"isCorrect": true
+			},
+			"a2": {
+				"answer": "Melbourne Storm",
+				"answerEs": null,
+				"isCorrect": false
+			},
+			"a3": {
+				"answer": "Sydney Roosters",
+				"answerEs": null,
+				"isCorrect": false
+			},
+			"a4": {
+				"answer": "North Queensland Cowboys",
+				"answerEs": null,
+				"isCorrect": false
+			}
+		}
+	}
+}
