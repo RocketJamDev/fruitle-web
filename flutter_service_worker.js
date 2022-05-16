@@ -111,12 +111,12 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"$FLUTTER_BASE_HREFmain.dart.js",
-"$FLUTTER_BASE_HREFindex.html",
-"$FLUTTER_BASE_HREFassets/NOTICES",
-"$FLUTTER_BASE_HREFassets/AssetManifest.json",
-"$FLUTTER_BASE_HREFassets/FontManifest.json"];
+  "/fruitle-web/",
+"/fruitle-web/main.dart.js",
+"/fruitle-web/index.html",
+"/fruitle-web/assets/NOTICES",
+"/fruitle-web/assets/AssetManifest.json",
+"/fruitle-web/assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
