@@ -44485,7 +44485,7 @@ A.a6C(new A.hw(r))
 return new A.mu()},
 $S:327}
 A.A_.prototype={
-K(a,b){return new A.ri(B.C2,"Flutter Demo",A.a8j(null,B.oN),null)}}
+K(a,b){return new A.ri(B.C2,"Fruitle",A.a8j(null,B.oN),null)}}
 A.ex.prototype={
 mk(a){var s=A.a6P(),r=J.ag(a)
 this.a=s.bm(r.h(a,"answer"))
