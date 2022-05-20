@@ -44704,7 +44704,7 @@ kc(a,b){var s=null,r=a.Q.c
 return A.ej(A.dR(A.a([A.cH(B.f.i(J.aeR(J.a4N(J.ac9(r.h(0,B.b.gH(("Category."+b.b).split("."))),r.h(0,"total")),100))),A.d6(40,B.x,s),B.bY,s),A.cH("%",A.d6(20,B.x,s),B.bY,s)],t.p),B.ab,B.K),50,60)},
 k9(a,b,c){var s=null,r=a.Q.a.b[b.a],q=A.a4j(b)
 if(r.f===B.af||!c)return A.yZ(s,A.ej(A.Ox(s,!1,s,s,new A.hh(q),s),50,60),B.at,!1,s,s,s,s,s,s,s,s,s,s,new A.S7(c,a,b),s,s,s,s,s)
-else return A.yZ(s,A.a6T(new A.hh(q),B.dR,50),B.at,!1,s,s,s,s,s,s,s,s,s,s,new A.S8(a,b),s,s,s,s,s)}}
+else return A.yZ(s,A.a6T(new A.hh(q),B.dR,60),B.at,!1,s,s,s,s,s,s,s,s,s,s,new A.S8(a,b),s,s,s,s,s)}}
 A.Sb.prototype={
 $1(a){return this.CQ(a)},
 CQ(a){var s=0,r=A.F(t.P)
