@@ -46282,7 +46282,7 @@ if(f.a==null)f=B.tV
 else{s=this.a
 r=a.a4(t.l).f
 q=t.p
-p=A.dd(A.a([B.cU,A.cs("Fruitle",A.d1(g,110,B.x,g),g,g),new A.zH(f.a,g),B.DT,new A.By("en",f.ghU(),b.gQQ(),g)],q),B.N,B.O)
+p=A.dd(A.a([B.cU,A.cs("Fruitle",A.d1(g,110,B.x,g),g,g),new A.zH(f.a,g),B.DT,new A.By("es",f.ghU(),b.gQQ(),g)],q),B.N,B.O)
 r=A.ql(A.eS(g,A.dd(A.a([p,b.ch?A.eS(g,g,g,g,g,g,g,g,g):s.wA()],q),B.N,B.dY),g,g,g,r.a.b,g,B.wG,g),g,g)
 if(b.ch){f=A.dk(A.a([A.cs("Resultado",A.d1(g,28,B.x,B.T),g,g)],q),B.Z,B.L)
 p=A.dk(A.a([A.cs("(Pulsa en la fruta para ver la respuesta correcta)",A.d1(g,15,B.x,B.o),g,g)],q),B.Z,B.L)
