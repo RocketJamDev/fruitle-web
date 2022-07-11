@@ -259,108 +259,108 @@
 		"number": 3,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the German word for &quot;spoon&quot;?",
-			"questionEs": "¿Cuál es la palabra alemana para \"cuchara\"?",
+			"question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+			"questionEs": "¿Las palabras \"bungalow\" y \"champú\" se originan en los idiomas de qué país?",
 			"a1": {
-				"answer": "L&ouml;ffel",
-				"answerEs": "Löffel",
+				"answer": "India",
+				"answerEs": "India",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Gabel",
-				"answerEs": "Gabel",
+				"answer": "Papua New Guinea",
+				"answerEs": "Papúa Nueva Guinea",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Messer",
-				"answerEs": "Messer",
+				"answer": "Ethiopia",
+				"answerEs": "Etiopía",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Essst&auml;bchen",
-				"answerEs": "Essstäbchen",
+				"answer": "China",
+				"answerEs": "China",
 				"isCorrect": false
 			}
 		},
 		"q2": {
-			"category": "Entertainment: Japanese Anime & Manga",
-			"question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
-			"questionEs": "En el manga \"One Piece\", ¿quién confirma la existencia del legendario tesoro One Piece?",
+			"category": "Entertainment: Film",
+			"question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+			"questionEs": "¿Cuál es el nombre correcto del protagonista del libro en La historia interminable (1984)?",
 			"a1": {
-				"answer": "Edward &quot;Whitebeard&quot; Newgate",
-				"answerEs": "Edward \"Barbablanca\" Newgate",
+				"answer": "Atreyu",
+				"answerEs": "Atreyu",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Former Marine Fleet Admiral Sengoku",
-				"answerEs": "Exalmirante de la Flota de la Marina Sengoku",
+				"answer": "Atrayu",
+				"answerEs": "Atrayu",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Pirate King Gol D Roger",
-				"answerEs": "Rey Pirata Gol D Roger",
+				"answer": "Atraiyu",
+				"answerEs": "Atraiyu",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Silvers Rayleigh",
-				"answerEs": "Silvers Rayleigh",
+				"answer": "Atraeyu",
+				"answerEs": "Atraeyu",
 				"isCorrect": false
 			}
 		},
 		"q3": {
-			"category": "Science: Computers",
-			"question": "In computing, what does MIDI stand for?",
-			"questionEs": "En informática, ¿qué significa MIDI?",
+			"category": "Science & Nature",
+			"question": "Which element has the chemical symbol &#039;Fe&#039;?",
+			"questionEs": "¿Qué elemento tiene el símbolo químico 'Fe'?",
 			"a1": {
-				"answer": "Musical Instrument Digital Interface",
-				"answerEs": "Musical Instrument Digital Interface",
+				"answer": "Iron",
+				"answerEs": "Hierro",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Musical Interface of Digital Instruments",
-				"answerEs": "Musical Interface of Digital Instruments",
+				"answer": "Gold",
+				"answerEs": "Oro",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Modular Interface of Digital Instruments",
-				"answerEs": "Modular Interface of Digital Instruments",
+				"answer": "Silver",
+				"answerEs": "Plata",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Musical Instrument Data Interface",
-				"answerEs": "Musical Instrument Data Interface",
+				"answer": "Tin",
+				"answerEs": "Estaño",
 				"isCorrect": false
 			}
 		},
 		"q4": {
-			"category": "Politics",
-			"question": "Former United States President Bill Clinton famously played which instrument?",
-			"questionEs": "¿Qué instrumento tocaba el ex presidente de los Estados Unidos, Bill Clinton?",
+			"category": "History",
+			"question": "What happened on June 6, 1944?",
+			"questionEs": "¿Qué pasó el 6 de junio de 1944?",
 			"a1": {
-				"answer": "Saxophone",
-				"answerEs": "Saxofón",
+				"answer": "D-Day",
+				"answerEs": "El desembarco de Normandía",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Baritone horn",
-				"answerEs": "Cuerno barítono",
+				"answer": "Atomic bombings of Hiroshima and Nagasaki",
+				"answerEs": "Bombardeos atómicos de Hiroshima y Nagasaki",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Piano",
-				"answerEs": "Piano",
+				"answer": "Attack on Pearl Harbor",
+				"answerEs": "Ataque a Pearl Harbour",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Violin",
-				"answerEs": "Violín",
+				"answer": "The Liberation of Paris",
+				"answerEs": "La liberación de París",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
 			"question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
-			"questionEs": "¿Qué jugador de la NBA fue reconocido como VMP en la temporada de 1999-2000",
+			"questionEs": "¿Qué jugador de la NBA fue reconocido como MVP en la temporada de 1999-2000",
 			"a1": {
 				"answer": "Shaquille O&#039;Neal",
 				"answerEs": "Shaquille O&#039;Neal",
