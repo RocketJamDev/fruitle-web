@@ -540,76 +540,76 @@
 		},
 		"q2": {
 			"category": "Entertainment: Books",
-			"question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
-			"questionEs": "En la novela 1984, de George Orwell, ¿cuál es el nombre del regimen totalitario que controla Oceania?",
+			"question": "¿Quién protagonizó la película Pretty Woman?",
+			"questionEs": "¿Quién protagonizó la película Pretty Woman?",
 			"a1": {
-				"answer": "INGSOC",
-				"answerEs": "INGSOC",
+				"answer": "Richard Guere",
+				"answerEs": "Richard Guere",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Neo-Bolshevism",
-				"answerEs": "Neo-Bolchevismo",
+				"answer": "Nicholas Cage",
+				"answerEs": "Nicholas Cage",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Obliteration of the Self",
-				"answerEs": "Obliteración del Ser",
+				"answer": "Nick Nolte",
+				"answerEs": "Nick Nolte",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Earth Alliance",
-				"answerEs": "Alianza Terrestre",
+				"answer": "Leonardo DiCaprio",
+				"answerEs": "Leonardo DiCaprio",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "Burning which of these metals will produce a bright white flame?",
-			"questionEs": "¿Quemar cuál de estos metales producirá una llama blanca brillante?",
+			"question": "¿Cómo se llama la unidad anatómica fundamental de todos los organismos vivos?",
+			"questionEs": "¿Cómo se llama la unidad anatómica fundamental de todos los organismos vivos?",
 			"a1": {
-				"answer": "Magnesium",
-				"answerEs": "Magnesio",
+				"answer": "Célula",
+				"answerEs": "Célula",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Copper",
-				"answerEs": "Cobre",
+				"answer": "Partícula",
+				"answerEs": "Partícula",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Lithium",
-				"answerEs": "Litio",
+				"answer": "Tejido",
+				"answerEs": "Tejido",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Lead",
-				"answerEs": "Plomo",
+				"answer": "Átomo",
+				"answerEs": "Átomo",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "In 1453, which important city fell?",
-			"questionEs": "En 1453, ¿cuál de estas ciudades cayó?",
+			"question": "¿En qué año se fundó la Unión Europea?",
+			"questionEs": "¿En qué año se fundó la Unión Europea?",
 			"a1": {
-				"answer": "Constantinople",
-				"answerEs": "Constantinopla",
+				"answer": "1993",
+				"answerEs": "1993",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Rome",
-				"answerEs": "Roma",
+				"answer": "1988",
+				"answerEs": "1988",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Hamburg",
-				"answerEs": "Hamburgo",
+				"answer": "1995",
+				"answerEs": "1995",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Athens",
-				"answerEs": "Atenas",
+				"answer": "1986",
+				"answerEs": "1986",
 				"isCorrect": false
 			}
 		},
@@ -643,7 +643,7 @@
 		"number": 6,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "Which country drives on the left side of the road?",
+			"question": "¿Qué país conduce por el lado izquierdo de la carretera?",
 			"questionEs": "¿Qué país conduce por el lado izquierdo de la carretera?",
 			"a1": {
 				"answer": "Japan",
@@ -668,26 +668,26 @@
 		},
 		"q2": {
 			"category": "Entertainment: Television",
-			"question": "How many seasons did &quot;Stargate SG-1&quot; have?",
-			"questionEs": "¿Cuántas temporadas tuvo la serie Stargate SG-1?",
+			"question": "¿Cuál es la novela más leída y traducida de la historia?",
+			"questionEs": "¿Cuál es la novela más leída y traducida de la historia?",
 			"a1": {
-				"answer": "10",
-				"answerEs": "10",
+				"answer": "El Principito",
+				"answerEs": "El Principito",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "3",
-				"answerEs": "3",
+				"answer": "Don Quijote de la Mancha",
+				"answerEs": "Don Quijote de la Mancha",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "7",
-				"answerEs": "7",
+				"answer": "Harry Potter",
+				"answerEs": "Harry Potter",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "12",
-				"answerEs": "12",
+				"answer": "Romeo y Julieta",
+				"answerEs": "Romeo y Julieta",
 				"isCorrect": false
 			}
 		},
@@ -696,33 +696,33 @@
 			"question": "How many planets are in our Solar System?",
 			"questionEs": "¿Cuántos planetas hay en nuestro Sistema Solar?",
 			"a1": {
-				"answer": "Eight",
-				"answerEs": "Ocho",
+				"answer": "8",
+				"answerEs": "8",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Nine",
-				"answerEs": "Nueve",
+				"answer": "9",
+				"answerEs": "9",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Seven",
-				"answerEs": "Siete",
+				"answer": "7",
+				"answerEs": "7",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Ten",
-				"answerEs": "Diez",
+				"answer": "10",
+				"answerEs": "10",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "Who was the only US President to be elected four times?",
-			"questionEs": "¿Quién fue el único presidente de los Estados Unidos elegido cuatro veces?",
+			"question": "¿Qué presidente de Estados Unidos liberó a los esclavos?",
+			"questionEs": "¿Qué presidente de Estados Unidos liberó a los esclavos?",
 			"a1": {
-				"answer": "Franklin Roosevelt",
-				"answerEs": "Franklin Roosevelt",
+				"answer": "Abraham Lincoln",
+				"answerEs": "Abraham Lincoln",
 				"isCorrect": true
 			},
 			"a2": {
@@ -736,33 +736,33 @@
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Abraham Lincoln",
-				"answerEs": "Abraham Lincoln",
+				"answer": "Franklin Roosevelt",
+				"answerEs": "Franklin Roosevelt",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Who did Steven Gerrard win the Champions League with?",
-			"questionEs": "¿Con quién ganó Steven Gerrard la Champions League?",
+			"question": "¿Qué selección de fútbol ha ganado más Mundiales?",
+			"questionEs": "¿Qué selección de fútbol ha ganado más Mundiales?",
 			"a1": {
-				"answer": "Liverpool",
-				"answerEs": "Liverpool",
+				"answer": "Brasil",
+				"answerEs": "Brasil",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Real Madrid",
-				"answerEs": "Real Madrid",
+				"answer": "Argentina",
+				"answerEs": "Argentina",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Chelsea",
-				"answerEs": "Chelsea",
+				"answer": "España",
+				"answerEs": "España",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Manchester City",
-				"answerEs": "Manchester City",
+				"answer": "Italia",
+				"answerEs": "Italia",
 				"isCorrect": false
 			}
 		}
@@ -771,126 +771,126 @@
 		"number": 7,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "Which of the following languages does NOT use gender as a part of its grammar?",
-			"questionEs": "¿Cuál de los siguientes idiomas NO usa el género como parte de su gramática?",
+			"question": "¿Cuál es el río más largo del mundo?",
+			"questionEs": "¿Cuál es el río más largo del mundo?",
 			"a1": {
-				"answer": "Turkish",
-				"answerEs": "Turco",
+				"answer": "Amazonas",
+				"answerEs": "Amazonas",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "German",
-				"answerEs": "Alemán",
+				"answer": "Nilo",
+				"answerEs": "Nilo",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Danish",
-				"answerEs": "Danés",
+				"answer": "Mekong",
+				"answerEs": "Mekong",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Polish",
-				"answerEs": "Polaco",
+				"answer": "Mississippi",
+				"answerEs": "Mississippi",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Art",
-			"question": "What nationality was the surrealist painter Salvador Dali?",
+			"question": "¿De qué nacionalidad era el pintor surrealista Salvador Dalí?",
 			"questionEs": "¿De qué nacionalidad era el pintor surrealista Salvador Dalí?",
 			"a1": {
-				"answer": "Spanish",
+				"answer": "Español",
 				"answerEs": "Español",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Italian",
+				"answer": "Italiano",
 				"answerEs": "Italiano",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "French",
+				"answer": "Francés",
 				"answerEs": "Francés",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Portuguese",
+				"answer": "Portugués",
 				"answerEs": "Portugués",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
-			"questionEs": "¿En qué etapa de desarrollo permanece la mayoría de las células eucariotas durante la mayor parte de su vida?",
+			"question": "¿Cómo se llama el proceso por el cuál una célula se divide en dos?",
+			"questionEs": "¿Cómo se llama el proceso por el cuál una célula se divide en dos?",
 			"a1": {
-				"answer": "Interphase",
-				"answerEs": "Interfase",
+				"answer": "Mitosis",
+				"answerEs": "Mitosis",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Prophase",
-				"answerEs": "Profase",
+				"answer": "Meiosis",
+				"answerEs": "Meiosis",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Stasis",
-				"answerEs": "Estasis",
+				"answer": "Fotosíntesis",
+				"answerEs": "Fotosíntesis",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Telophase",
+				"answer": "Telofase",
 				"answerEs": "Telofase",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "What was Manfred von Richthofen&#039;s nickname?",
-			"questionEs": "¿Cuál era el apodo de Manfred von Richthofen?",
+			"question": "¿Cuál era el apodo de Manfred von Richthofen, el famoso piloto que durante la primera guerra mundial pintó su avión de color rojo?",
+			"questionEs": "¿Cuál era el apodo de Manfred von Richthofen, el famoso piloto que durante la primera guerra mundial pintó su avión de color rojo?",
 			"a1": {
-				"answer": "The Red Baron",
+				"answer": "El Barón Rojo",
 				"answerEs": "El Barón Rojo",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "The High Flying Ace",
-				"answerEs": "El As de los Altos Vuelos",
+				"answer": "El Brujo Escarlata",
+				"answerEs": "El Brujo Escarlata",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "The Blue Serpent ",
-				"answerEs": "La Serpiente Azul",
+				"answer": "El Conde Granate",
+				"answerEs": "El Conde Granate",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "The Germany Gunner",
-				"answerEs": "El Artillero Alemán",
+				"answer": "La Muerte Roja",
+				"answerEs": "La Muerte Roja",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "What is the most common type of pitch thrown by pitchers in baseball?",
-			"questionEs": "¿Cuál es el tipo de lanzamiento más común que lanzan los pitchers en el béisbol?",
+			"question": "¿Cuánto dura la prórroga en un partido de fútbol?",
+			"questionEs": "¿Cuánto dura la prórroga en un partido de fútbol?",
 			"a1": {
-				"answer": "Fastball",
-				"answerEs": "Bola rápida",
+				"answer": "30 minutos",
+				"answerEs": "30 minutos",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Slowball",
-				"answerEs": "Bola lenta",
+				"answer": "45 minutos",
+				"answerEs": "45 minutos",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Screwball",
-				"answerEs": "Bola de tornillo",
+				"answer": "15 minutos",
+				"answerEs": "15 minutos",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Palmball",
-				"answerEs": "Bola de palma",
+				"answer": "90 minutos",
+				"answerEs": "90 minutos",
 				"isCorrect": false
 			}
 		}
@@ -899,7 +899,7 @@
 		"number": 8,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the last letter of the Greek alphabet?",
+			"question": "¿Cuál es la última letra del alfabeto griego?",
 			"questionEs": "¿Cuál es la última letra del alfabeto griego?",
 			"a1": {
 				"answer": "Omega",
@@ -949,7 +949,7 @@
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "How many bones are in the human body?",
+			"question": "¿Cuántos huesos hay en el cuerpo humano?",
 			"questionEs": "¿Cuántos huesos hay en el cuerpo humano?",
 			"a1": {
 				"answer": "206",
@@ -974,32 +974,32 @@
 		},
 		"q4": {
 			"category": "History",
-			"question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+			"question": "¿Cuál era el nombre comúnmente dado a las antiguas rutas comerciales que conectaban el este y el oeste de Eurasia?",
 			"questionEs": "¿Cuál era el nombre comúnmente dado a las antiguas rutas comerciales que conectaban el este y el oeste de Eurasia?",
 			"a1": {
-				"answer": "Silk Road",
+				"answer": "Ruta de la Seda",
 				"answerEs": "Ruta de la Seda",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Spice Road",
+				"answer": "Camino de las Especias",
 				"answerEs": "Camino de las Especias",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Clay Road",
+				"answer": "Camino de Arcilla",
 				"answerEs": "Camino de Arcilla",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Salt Road",
+				"answer": "Camino de la Sal",
 				"answerEs": "Camino de la Sal",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+			"question": "¿Qué piloto de Fórmula Uno fue apodado 'El Profesor'?",
 			"questionEs": "¿Qué piloto de Fórmula Uno fue apodado 'El Profesor'?",
 			"a1": {
 				"answer": "Alain Prost",
@@ -1027,101 +1027,101 @@
 		"number": 9,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What was the first ever London Underground line to be built?",
-			"questionEs": "¿Cuál fue la primera línea del metro de Londres que se construyó?",
+			"question": "De izquierda a derecha, ¿cuáles son los colores de la bandera de México?",
+			"questionEs": "De izquierda a derecha, ¿cuáles son los colores de la bandera de México?",
 			"a1": {
-				"answer": "Metropolitan Line",
-				"answerEs": "Línea Metropolitana",
+				"answer": "Verde, Blanco y Rojo",
+				"answerEs": "Verde, Blanco y Rojo",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Circle Line",
-				"answerEs": "Línea Circular",
+				"answer": "Blanco, Rojo y Verde",
+				"answerEs": "Blanco, Rojo y Verde",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Bakerloo Line",
-				"answerEs": "Línea Bakerloo",
+				"answer": "Rojo, Blanco y Verde",
+				"answerEs": "Rojo, Blanco y Verde",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Victoria Line",
-				"answerEs": "Línea Victoria",
+				"answer": "Verde, Blanco y Azul",
+				"answerEs": "Verde, Blanco y Azul",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Celebrities",
-			"question": "How tall is Tom Cruise?",
-			"questionEs": "¿Cuanto mide Tom Cruise?",
+			"question": "¿En qué año se estrenó Star Wars?",
+			"questionEs": "¿En qué año se estrenó Star Wars?",
 			"a1": {
-				"answer": "1.7m",
-				"answerEs": "1.7m",
+				"answer": "1977",
+				"answerEs": "1977",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "1.65m",
-				"answerEs": "1.65m",
+				"answer": "1975",
+				"answerEs": "1975",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "1.75m",
-				"answerEs": "1.75m",
+				"answer": "1980",
+				"answerEs": "1980",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "1.8m",
-				"answerEs": "1.8m″",
+				"answer": "1982",
+				"answerEs": "1982″",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
-			"questionEs": "¿Cuál es la fórmula molecular del componente activo de los chiles (Capsaicina)?",
+			"question": "¿De qué elemento están compuestos los diamantes?",
+			"questionEs": "¿De qué elemento están compuestos los diamantes?",
 			"a1": {
-				"answer": "C18H27NO3",
-				"answerEs": "C18H27NO3",
+				"answer": "Carbono",
+				"answerEs": "Carbono",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "C21H23NO3",
-				"answerEs": "C21H23NO3",
+				"answer": "Calcio",
+				"answerEs": "Calcio",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "C6H4Cl2",
-				"answerEs": "C6H4Cl2",
+				"answer": "Hierro",
+				"answerEs": "Hierro",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "C13H25NO4",
-				"answerEs": "C13H25NO4",
+				"answer": "Cobalto",
+				"answerEs": "Cobalto",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
-			"questionEs": "¿Qué líder es famoso/a por haber dicho &quot;Que coman tarta&quot;, aunque se rumorea que nunca lo dijo?",
+			"question": "¿Quién fue el último zar de Rusia?",
+			"questionEs": "¿Quién fue el último zar de Rusia?",
 			"a1": {
-				"answer": "Marie Antoinette",
-				"answerEs": "Marie Antoinette",
+				"answer": "Nicolas II",
+				"answerEs": "Nicolas II",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Czar Nicholas II",
-				"answerEs": "Czar Nicholas II",
+				"answer": "Pedro I",
+				"answerEs": "Pedro I",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Elizabeth I",
-				"answerEs": "Elizabeth I",
+				"answer": "Alejandro II",
+				"answerEs": "Alejandro II",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Henry VIII",
-				"answerEs": "Henry VIII",
+				"answer": "Vladimir Putin",
+				"answerEs": "Vladimir Putin",
 				"isCorrect": false
 			}
 		},
@@ -1180,82 +1180,82 @@
 		},
 		"q2": {
 			"category": "Entertainment: Music",
-			"question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
-			"questionEs": "En el álbum de Kendrick Lamar de 2012, \"Good Kid, M.A.A.D City\", ¿en qué ciudad tiene lugar la historia del álbum?",
+			"question": "¿Qué rockero es recordado por haber incendiado su guitarra?",
+			"questionEs": "¿Qué rockero es recordado por haber incendiado su guitarra?",
 			"a1": {
-				"answer": "Compton",
-				"answerEs": "Compton",
+				"answer": "Jimi Hendrix",
+				"answerEs": "Jimi Hendrix",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Detroit",
-				"answerEs": "Detroit",
+				"answer": "Slash",
+				"answerEs": "Slash",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "New York",
-				"answerEs": "Nueva York",
+				"answer": "Eddie Van Halen",
+				"answerEs": "Eddie Van Halen",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Baltimore",
-				"answerEs": "Baltimore",
+				"answer": "Eric Clapton",
+				"answerEs": "Eric Clapton",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+			"question": "¿Cuánto tarda la luz en viajar desde el Sol hasta la Tierra?",
 			"questionEs": "¿Cuánto tarda la luz en viajar desde el Sol hasta la Tierra?",
 			"a1": {
-				"answer": "8 Minutes",
+				"answer": "8 minutos",
 				"answerEs": "8 minutos",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "6 Minutes",
+				"answer": "6 minutos",
 				"answerEs": "6 minutos",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "2 Minutes",
-				"answerEs": "2 minutos",
+				"answer": "8 segundos",
+				"answerEs": "8 segundos",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "12 Minutes",
-				"answerEs": "12 minutos",
+				"answer": "8 horas",
+				"answerEs": "8 horas",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which of the following countries was not an axis power during World War II?",
+			"question": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",,
 			"questionEs": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",
 			"a1": {
-				"answer": " Soviet Union",
+				"answer": "Unión Soviética",
 				"answerEs": "Unión Soviética",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Italy",
+				"answer": "Italia",
 				"answerEs": "Italia",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Germany",
+				"answer": "Alemania",
 				"answerEs": "Alemania",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Japan",
+				"answer": "Japón",
 				"answerEs": "Japón",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "What national team won the 2016 edition of UEFA European Championship?",
+			"question": "¿Qué equipo nacional ganó la edición de 2016 del Campeonato de Europa de la UEFA?",
 			"questionEs": "¿Qué equipo nacional ganó la edición de 2016 del Campeonato de Europa de la UEFA?",
 			"a1": {
 				"answer": "Portugal",
@@ -1263,18 +1263,18 @@
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "France",
+				"answer": "Francia",
 				"answerEs": "Francia",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Germany",
+				"answer": "Alemania",
 				"answerEs": "Alemania",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "England",
-				"answerEs": "Inglaterra",
+				"answer": "España",
+				"answerEs": "España",
 				"isCorrect": false
 			}
 		}
@@ -1283,40 +1283,40 @@
 		"number": 11,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the largest organ of the human body?",
+			"question": "¿Cuál es el órgano más grande del cuerpo humano?",
 			"questionEs": "¿Cuál es el órgano más grande del cuerpo humano?",
 			"a1": {
-				"answer": "Skin",
+				"answer": "Piel",
 				"answerEs": "Piel",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Heart",
+				"answer": "Corazón",
 				"answerEs": "Corazón",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "large Intestine",
+				"answer": "Intestino delgado",
 				"answerEs": "Intestino delgado",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Liver",
+				"answer": "Hígado",
 				"answerEs": "Hígado",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Entertainment: Video Games",
-			"question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
-			"questionEs": "¿Los Khajiit son una raza de criaturas parecidas a gatos de qué serie épica de juegos de rol, ambientada en la tierra de Tamriel?",
+			"question": "¿En qué serie épica de videojuegos de rol existen los Khajiit, una raza de criaturas parecidas a gatos?",
+			"questionEs": "¿En qué serie épica de videojuegos de rol existen los Khajiit, una raza de criaturas parecidas a gatos?",
 			"a1": {
 				"answer": "The Elder Scrolls",
 				"answerEs": "The Elder Scrolls",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Lord of the Rings",
+				"answer": "El Señor de los Anillos",
 				"answerEs": "El Señor de los Anillos",
 				"isCorrect": false
 			},
@@ -1333,76 +1333,76 @@
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "Which is the chemical name of H2O?",
+			"question": "¿Cuál es el nombre químico del H2O?",
 			"questionEs": "¿Cuál es el nombre químico del H2O?",
 			"a1": {
-				"answer": "Dihydrogen Monoxide",
+				"answer": "Monóxido de dihidrógeno",
 				"answerEs": "Monóxido de dihidrógeno",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Ammonium chloride",
+				"answer": "Cloruro amónico",
 				"answerEs": "Cloruro amónico",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Anhydrous Sodium Carbonate",
+				"answer": "Carbonato de sodio anhidro",
 				"answerEs": "Carbonato de sodio anhidro",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Manganese dioxide",
+				"answer": "Dióxido de manganeso",
 				"answerEs": "Dióxido de manganeso",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "What was Genghis Khan&#039;s real name?",
-			"questionEs": "¿Cuál era el verdadero nombre de Genghis Khan?",
+			"question": "¿Qué evento inició la Segunda Guerra Mundial?",
+			"questionEs": "¿Qué evento inició la Segunda Guerra Mundial?",
 			"a1": {
-				"answer": "Tem&uuml;jin",
-				"answerEs": "Temujin",
+				"answer": "La invasión Alemana de Polonia",
+				"answerEs": "La invasión Alemana de Polonia",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "M&ouml;ngke",
-				"answerEs": "Mongke",
+				"answer": "La invasión Alemana de Austria",
+				"answerEs": "La invasión Alemana de Austria",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "&Ouml;gedei",
-				"answerEs": "Ögedei",
+				"answer": "El asesinato del archiduque Francisco Fernando",
+				"answerEs": "El asesinato del archiduque Francisco Fernando",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Tem&uuml;r",
-				"answerEs": "Temur",
+				"answer": "El ataque a Pearl Harbor",
+				"answerEs": "El ataque a Pearl Harbor",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
-			"questionEs": "¿En qué fecha se celebró la ceremonia de clausura de los Juegos Olímpicos de Verano de Río 2016?",
+			"question": "¿En qué ciudad se celebraron los Juegos Olímpicos de Verano de 2016?",
+			"questionEs": "¿En qué ciudad se celebraron los Juegos Olímpicos de Verano de 2016?",
 			"a1": {
-				"answer": "August 21",
-				"answerEs": "21 de Agosto",
+				"answer": "Rio de Janeiro",
+				"answerEs": "Rio de Janeiro",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "August 23",
-				"answerEs": "23 de Agosto",
+				"answer": "Londres",
+				"answerEs": "Londres",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "August 19",
-				"answerEs": "19 de Agosto",
+				"answer": "Pekín",
+				"answerEs": "Pekín",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "August 17",
-				"answerEs": "17 de Agosto",
+				"answer": "Tokyo",
+				"answerEs": "Tokyo",
 				"isCorrect": false
 			}
 		}
@@ -1411,40 +1411,40 @@
 		"number": 12,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the defining characteristic of someone who is described as hirsute?",
+			"question": "¿Cuál es la característica que define a alguien que se describe como hirsuto?",
 			"questionEs": "¿Cuál es la característica que define a alguien que se describe como hirsuto?",
 			"a1": {
-				"answer": "Hairy",
+				"answer": "Peludo",
 				"answerEs": "Peludo",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Rude",
+				"answer": "Brusco",
 				"answerEs": "Brusco",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Funny",
+				"answer": "Divertido",
 				"answerEs": "Divertido",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Tall",
+				"answer": "Alto",
 				"answerEs": "Alto",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+			"question": "Al comienzo de un juego estándar del Monopoly, si lanzas un doble seis, ¿en qué casilla caerías?",
 			"questionEs": "Al comienzo de un juego estándar del Monopoly, si lanzas un doble seis, ¿en qué casilla caerías?",
 			"a1": {
-				"answer": "Electric Company",
+				"answer": "Compañía de distribución eléctrica",
 				"answerEs": "Compañía de distribución eléctrica",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Water Works",
+				"answer": "Compañía de distribución de agua",
 				"answerEs": "Compañía de distribución de agua",
 				"isCorrect": false
 			},
@@ -1454,14 +1454,14 @@
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Community Chest",
+				"answer": "Caja de comunidad",
 				"answerEs": "Caja de comunidad",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+			"question": "¿Cuántos grados Fahrenheit son 100 grados Celsius?",
 			"questionEs": "¿Cuántos grados Fahrenheit son 100 grados Celsius?",
 			"a1": {
 				"answer": "212",
@@ -1486,32 +1486,32 @@
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
-			"questionEs": "¿Qué país moderno se conoce como \"El cementerio de los imperios\"?",
+			"question": "¿Cuál es la etapa más larga de la historia?",
+			"questionEs": "¿Cuál es la etapa más larga de la historia?",
 			"a1": {
-				"answer": "Afghanistan",
-				"answerEs": "Afganistán",
+				"answer": "Prehistoria",
+				"answerEs": "Prehistoria",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "China",
-				"answerEs": "China",
+				"answer": "Edad Media",
+				"answerEs": "Edad Media",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Iraq",
-				"answerEs": "Irak",
+				"answer": "Edad Moderna",
+				"answerEs": "Edad Moderna",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Russia",
-				"answerEs": "Rusia",
+				"answer": "Edad Contemporánea",
+				"answerEs": "Edad Contemporánea",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "When was the FC Schalke 04 founded?",
+			"question": "¿Cuándo se fundó el FC Schalke 04?",
 			"questionEs": "¿Cuándo se fundó el FC Schalke 04?",
 			"a1": {
 				"answer": "1904",
@@ -1529,8 +1529,8 @@
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "1999",
-				"answerEs": "1999",
+				"answer": "2004",
+				"answerEs": "2004",
 				"isCorrect": false
 			}
 		}
@@ -1539,26 +1539,26 @@
 		"number": 13,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What do the letters in the GMT time zone stand for?",
+			"question": "¿Qué significan en español las letras en la zona horaria GMT?",
 			"questionEs": "¿Qué significan en español las letras en la zona horaria GMT?",
 			"a1": {
-				"answer": "Greenwich Mean Time",
-				"answerEs": "Meridiano de Greenwich",
+				"answer": "Hora del Meridiano de Greenwich",
+				"answerEs": "Hora del Meridiano de Greenwich",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Global Meridian Time",
-				"answerEs": "Hora del meridiano mundial",
+				"answer": "Hora del Meridiano Global",
+				"answerEs": "Hora del Meridiano Global",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "General Median Time",
-				"answerEs": "Tiempo medio general",
+				"answer": "Hora Media General",
+				"answerEs": "Hora Media General",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Glasgow Man Time",
-				"answerEs": "Hora del hombre de Glasgow",
+				"answer": "Hora del Hombre de Glasgow",
+				"answerEs": "Hora del Hombre de Glasgow",
 				"isCorrect": false
 			}
 		},
@@ -1589,7 +1589,7 @@
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+			"question": "En biología humana, un ritmo de circadiano se relaciona con un período de aproximadamente ¿cuántas horas?",
 			"questionEs": "En biología humana, un ritmo de circadiano se relaciona con un período de aproximadamente ¿cuántas horas?",
 			"a1": {
 				"answer": "24",
@@ -1614,26 +1614,26 @@
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which modern day country is the region that was known as Phrygia in ancient times?",
-			"questionEs": "¿Qué país moderno es la región que se conocía como Frigia en la antigüedad?",
+			"question": "¿Qué isla generó un conflicto entre Reino Unido y Argentina?",
+			"questionEs": "¿Qué isla(s) generó un conflicto entre Reino Unido y Argentina?",
 			"a1": {
-				"answer": "Turkey",
-				"answerEs": "Turkey",
+				"answer": "Las islas Malvinas",
+				"answerEs": "Las islas Malvinas",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Syria",
-				"answerEs": "Syria",
+				"answer": "Las islas Marianas",
+				"answerEs": "Las islas Marianas",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Greece",
-				"answerEs": "Grecia",
+				"answer": "La isla de Perejil",
+				"answerEs": "La isla de Perejil",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Egypt",
-				"answerEs": "Egipto",
+				"answer": "Cerdeña",
+				"answerEs": "Cerdeña",
 				"isCorrect": false
 			}
 		},
@@ -1668,56 +1668,56 @@
 		"q1": {
 			"category": "General Knowledge",
 			"question": "How tall is the Burj Khalifa?",
-			"questionEs": "¿Qué altura tiene el Burj Khalifa?",
+			"questionEs": "¿Qué altura tiene el edificio Burj Khalifa?",
 			"a1": {
 				"answer": "2,722 ft",
 				"answerEs": "828 m",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "2,717 ft",
+				"answer": "950 m",
 				"answerEs": "950 m",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "2,546 ft",
+				"answer": "730 m",
 				"answerEs": "730 m",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "3,024 ft",
+				"answer": "1200 m",
 				"answerEs": "1200 m",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Celebrities",
-			"question": "Which celebrity announced his presidency in 2015?",
-			"questionEs": "¿Qué celebridad anunció su presidencia de EEUU en 2015?",
+			"question": "¿Cuántas películas componen la saga de Regreso al Futuro (Back to the Future)? ",
+			"questionEs": "¿Cuántas películas componen la saga de Regreso al Futuro (Back to the Future)",
 			"a1": {
-				"answer": "Kanye West",
-				"answerEs": "Kanye West",
+				"answer": "3",
+				"answerEs": "3",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Donald Trump",
-				"answerEs": "Donald Trump",
+				"answer": "2",
+				"answerEs": "2",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Leonardo DiCaprio",
-				"answerEs": "Leonardo DiCaprio",
+				"answer": "4",
+				"answerEs": "4",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Miley Cyrus",
-				"answerEs": "Miley Cyrus",
+				"answer": "1",
+				"answerEs": "1",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What is the largest animal currently on Earth?",
+			"question": "¿Cuál es el animal más grande actualmente en la Tierra?",
 			"questionEs": "¿Cuál es el animal más grande actualmente en la Tierra?",
 			"a1": {
 				"answer": "Blue Whale",
@@ -1730,38 +1730,38 @@
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Colossal Squid",
+				"answer": "Calamar colosal",
 				"answerEs": "Calamar colosal",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Giraffe",
+				"answer": "Jirafa",
 				"answerEs": "Jirafa",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which of the following snipers has the highest amount of confirmed kills?",
-			"questionEs": "¿Cuál de los siguientes francotiradores tiene la mayor cantidad de muertes confirmadas?",
+			"question": "¿Quién fue la primera persona en pisar la luna?",
+			"questionEs": "¿Quién fue la primera persona en pisar la luna?",
 			"a1": {
-				"answer": "Simo H&auml;yh&auml;",
-				"answerEs": "Simo Hayha",
+				"answer": "Neil Amstrong",
+				"answerEs": "Neil Amstrong",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Chris Kyle",
-				"answerEs": "Chris Kyle",
+				"answer": "Buzz Aldrin",
+				"answerEs": "Buzz Aldrin",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Vasily Zaytsev",
-				"answerEs": "Vasili Zaytsev",
+				"answer": "Valentina Tereshckova",
+				"answerEs": "Valentina Tereshckova",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Craig Harrison",
-				"answerEs": "Craig Harrison",
+				"answer": "Buzz Lightyear",
+				"answerEs": "Buzz Lightyear",
 				"isCorrect": false
 			}
 		},
@@ -1795,83 +1795,83 @@
 		"number": 15,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the closest planet to our solar system&#039;s sun?",
+			"question": "¿Cuál es el planeta más cercano al sol de nuestro sistema solar?",
 			"questionEs": "¿Cuál es el planeta más cercano al sol de nuestro sistema solar?",
 			"a1": {
-				"answer": "Mercury",
+				"answer": "Mercurio",
 				"answerEs": "Mercurio",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Mars",
+				"answer": "Marte",
 				"answerEs": "Marte",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Jupiter",
-				"answerEs": "Júpiter",
+				"answer": "Venus",
+				"answerEs": "Venus",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Earth",
+				"answer": "Tierra",
 				"answerEs": "Tierra",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
-			"questionEs": "¿Qué texto de ambientación de Magic: The Gathering card es simplemente 'Ribbit'?",
+			"question": "¿En qué año se emitió el primer episodio de Los Simpsons?",
+			"questionEs": "¿En qué año se emitió el primer episodio de Los Simpsons?",
 			"a1": {
-				"answer": "Turn to Frog",
-				"answerEs": "Convertir en rana",
+				"answer": "1989",
+				"answerEs": "1989",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Spore Frog",
-				"answerEs": "Rana de esporas",
+				"answer": "1992",
+				"answerEs": "1992",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Bloated Toad",
-				"answerEs": "Sapo hinchado",
+				"answer": "1985",
+				"answerEs": "1985",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Frogmite",
-				"answerEs": "Frogmite",
+				"answer": "1995",
+				"answerEs": "1995",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What is the study of the cells and tissues of plants and animals?",
+			"question": "¿Cómo se le llama al estudio de las células y tejidos de plantas y animales?",
 			"questionEs": "¿Cómo se le llama al estudio de las células y tejidos de plantas y animales?",
 			"a1": {
-				"answer": "Histology",
+				"answer": "Histología",
 				"answerEs": "Histología",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Microbiology",
+				"answer": "Microbiología",
 				"answerEs": "Microbiología",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Anatomy",
+				"answer": "Anatomía",
 				"answerEs": "Anatomía",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Biochemistry",
+				"answer": "Bioquímica",
 				"answerEs": "Bioquímica",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "The original Roman alphabet lacked the following letters EXCEPT:",
-			"questionEs": "El alfabeto romano original carecía de las siguientes letras EXCEPTO:",
+			"question": "¿Cuál de estas letras existía en el alfabeto romano original?",
+			"questionEs": "¿Cuál de estas letras existía en el alfabeto romano original?",
 			"a1": {
 				"answer": "X",
 				"answerEs": "X",
@@ -1895,26 +1895,26 @@
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
-			"questionEs": "¿En qué año ganó el Mazda 787B las 24 Horas de Le Mans?",
+			"question": "¿Cómo se llama la zona de hierba sobre la cual se ubica el hoyo en golf??",
+			"questionEs": "¿Cómo se llama la zona de hierba sobre la cual se ubica el hoyo en golf?",
 			"a1": {
-				"answer": "1991",
-				"answerEs": "1991",
+				"answer": "El Green",
+				"answerEs": "El Green",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "1990",
-				"answerEs": "1990",
+				"answer": "El césped",
+				"answerEs": "El césped",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "2000",
-				"answerEs": "2000",
+				"answer": "El campo",
+				"answerEs": "El campo",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "1987",
-				"answerEs": "1987",
+				"answer": "Lo segao",
+				"answerEs": "Lo segao",
 				"isCorrect": false
 			}
 		}
@@ -1923,8 +1923,8 @@
 		"number": 16,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What year was Apple Inc. founded?",
-			"questionEs": "¿En qué año se fundó Apple Inc.?",
+			"question": "¿En qué año se fundó Apple?",
+			"questionEs": "¿En qué año se fundó Apple?",
 			"a1": {
 				"answer": "1976",
 				"answerEs": "1976",
@@ -1948,82 +1948,82 @@
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "When was the board game Twister, released to the public?",
-			"questionEs": "¿En qué año se lanzó al público el juego de mesa Twister?",
+			"question": "¿Qué popular streamer consiguió romper el record de Twitch con su segunda edición de La Velada del Año?",
+			"questionEs": "¿Qué popular streamer consiguió romper el record de Twitch con su segunda edición de La Velada del Año?",
 			"a1": {
-				"answer": "1966",
-				"answerEs": "1966",
+				"answer": "Ibai Llanos",
+				"answerEs": "Ibai Llanos",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "1975",
-				"answerEs": "1975",
+				"answer": "Jerma",
+				"answerEs": "Jerma",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "1980",
-				"answerEs": "1980",
+				"answer": "TheGregf",
+				"answerEs": "TheGregf",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "1991",
-				"answerEs": "1991",
+				"answer": "El Rubius",
+				"answerEs": "El Rubius",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
-			"questionEs": "¿Qué enfermedad genética es causada por tener un cromosoma Y extra (XYY)?",
+			"question": "¿Qué enfermedad es causada por tener un cromosoma extra en el par 21?",
+			"questionEs": "¿Qué enfermedad es causada por tener un cromosoma extra en el par 21?",
 			"a1": {
-				"answer": "Jacob&#039;s Syndrome",
+				"answer": "Síndrome de Jacob",
 				"answerEs": "Síndrome de Jacob",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Klinefelter&#039;s Syndrome",
+				"answer": "Síndrome de Klinefelter",
 				"answerEs": "Síndrome de Klinefelter",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Turner&#039;s Syndrome",
+				"answer": "Síndrome de Turner",
 				"answerEs": "Síndrome de Turner",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Down Syndrome",
+				"answer": "Síndrome de Down",
 				"answerEs": "Síndrome de Down",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "What is the historical name of Sri Lanka?",
-			"questionEs": "¿Cuál es el nombre histórico de Sri Lanka?",
+			"question": "¿En qué país se inició la Revolución Industrial?",
+			"questionEs": "¿En qué país se inició la Revolución Industrial?",
 			"a1": {
-				"answer": "Ceylon",
-				"answerEs": "Ceilán",
+				"answer": "Inglaterra",
+				"answerEs": "Inglaterra",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Myanmar",
-				"answerEs": "Birmania",
+				"answer": "Francia",
+				"answerEs": "Francia",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Colombo",
-				"answerEs": "Colombo",
+				"answer": "Alemania",
+				"answerEs": "Alemania",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Badulla",
-				"answerEs": "Badulla",
+				"answer": "España",
+				"answerEs": "España",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Which soccer team won the Copa Am&eacute;rica 2021?",
+			"question": "¿Qué equipo de fútbol ganó la Copa América 2021?",
 			"questionEs": "¿Qué equipo de fútbol ganó la Copa América 2021?",
 			"a1": {
 				"answer": "Chile",
@@ -2036,7 +2036,7 @@
 				"isCorrect": true
 			},
 			"a3": {
-				"answer": "Brazil",
+				"answer": "Brasil",
 				"answerEs": "Brasil",
 				"isCorrect": false
 			},
@@ -2051,57 +2051,57 @@
 		"number": 17,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "Nephelococcygia is the practice of doing what?",
-			"questionEs": "Nephelococcygia es la práctica de hacer qué?",
+			"question": "¿Cuál era el nombre de la perra que viajó al espacio abordo del satélite Sputnik 2?",
+			"questionEs": "¿Cuál era el nombre de la perra que viajó al espacio abordo del satélite Sputnik 2?",
 			"a1": {
-				"answer": "Finding shapes in clouds",
-				"answerEs": "Encontrar formas en las nubes",
+				"answer": "Layka",
+				"answerEs": "Layka",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Sleeping with your eyes open",
-				"answerEs": "Dormir con los ojos abiertos",
+				"answer": "Lassie",
+				"answerEs": "Lassie",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Breaking glass with your voice",
-				"answerEs": "Romper cristales con la voz",
+				"answer": "Kelly",
+				"answerEs": "Kelly",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Swimming in freezing water",
-				"answerEs": "Nadar en agua helada",
+				"answer": "Ascua",
+				"answerEs": "Ascua",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "In what year was the card game Magic: the Gathering first introduced?",
-			"questionEs": "¿En qué año se introdujo por primera vez el juego de cartas Magic: the Gathering?",
+			"question": "¿En qué año se lanzó al mercado la consola de Sony Playstation 3?",
+			"questionEs": "¿En qué año se lanzó al mercado la consola de Sony Playstation 3?",
 			"a1": {
-				"answer": "1993",
-				"answerEs": "1993",
+				"answer": "2006",
+				"answerEs": "2006",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "1987",
-				"answerEs": "1987",
+				"answer": "2007",
+				"answerEs": "2007",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "1998",
-				"answerEs": "1998",
+				"answer": "2010",
+				"answerEs": "2010",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "2003",
-				"answerEs": "2003",
+				"answer": "2000",
+				"answerEs": "2000",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "Human cells typically have how many copies of each gene?",
+			"question": "¿Cuántas copias de cada gen tienen típicamente las células humanas?",
 			"questionEs": "¿Cuántas copias de cada gen tienen típicamente las células humanas?",
 			"a1": {
 				"answer": "2",
@@ -2126,7 +2126,7 @@
 		},
 		"q4": {
 			"category": "History",
-			"question": "The collapse of the Soviet Union took place in which year?",
+			"question": "¿En qué año se produjo el colapso de la Unión Soviética?",
 			"questionEs": "¿En qué año se produjo el colapso de la Unión Soviética?",
 			"a1": {
 				"answer": "1991",
@@ -2151,7 +2151,7 @@
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+			"question": "¿Qué boxeador fue sancionado por morder la oreja de Evander Holyfield en 1997?",
 			"questionEs": "¿Qué boxeador fue sancionado por morder la oreja de Evander Holyfield en 1997?",
 			"a1": {
 				"answer": "Mike Tyson",
@@ -2179,7 +2179,7 @@
 		"number": 18,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+			"question": "¿Qué tipo de animal era Harambe, que recibió un disparo después de que un niño cayera en su recinto en el zoológico de Cincinnati?",
 			"questionEs": "¿Qué tipo de animal era Harambe, que recibió un disparo después de que un niño cayera en su recinto en el zoológico de Cincinnati?",
 			"a1": {
 				"answer": "Gorilla",
@@ -2204,85 +2204,85 @@
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "Which of the following tabletop games is the oldest?",
-			"questionEs": "¿Cuál de los siguientes juegos de mesa es el más antiguo?",
+			"question": "¿Cómo se llama la protagonista de Los Juegos del Hambre?",
+			"questionEs": "¿Cómo se llama la protagonista de Los Juegos del Hambre?",
 			"a1": {
-				"answer": "Go",
-				"answerEs": "Go",
+				"answer": "Katniss Everdeen",
+				"answerEs": "Katniss Everdeen",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Chess",
-				"answerEs": "Ajedrez",
+				"answer": "Catnip Evergreen",
+				"answerEs": "Catnip Evergreen",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Mahjong",
-				"answerEs": "Mahjong",
+				"answer": "Hermione Granger",
+				"answerEs": "Hermione Granger",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Shogi",
-				"answerEs": "Shogi",
+				"answer": "Rebekah Mikleson",
+				"answerEs": "Rebekah Mikleson",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
-			"questionEs": "¿Qué elemento, cuando se vence con calor y presión extremos, crea diamantes?",
+			"question": "¿Qué mineral se produce, cuando el Carbono se vence con calor y presión extremos?",
+			"questionEs": "¿Qué mineral se produce, cuando el Carbono se vence con calor y presión extremos?",
 			"a1": {
-				"answer": "Carbon",
-				"answerEs": "Carbono",
+				"answer": "Diamante",
+				"answerEs": "Diamante",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Nitrogen",
-				"answerEs": "Nitrógeno",
+				"answer": "Pirita",
+				"answerEs": "Pirita",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Oxygen",
-				"answerEs": "Oxígeno",
+				"answer": "Amatista",
+				"answerEs": "Amatista",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Hydrogen",
-				"answerEs": "Hidrógeno",
+				"answer": "Marcasita",
+				"answerEs": "Marcasita",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "In what year was the last natural case of smallpox documented?",
-			"questionEs": "¿En qué año se documentó el último caso natural de viruela?",
+			"question": "¿Que volcán devastó la ciudad italiana de Pompeya",
+			"questionEs": "¿Que volcán devastó la ciudad italiana de Pompeya?",
 			"a1": {
-				"answer": "1977",
-				"answerEs": "1977",
+				"answer": "El Vesubio",
+				"answerEs": "El Vesubio",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "1982",
-				"answerEs": "1982",
+				"answer": "El Etna",
+				"answerEs": "El Etna",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "1980",
-				"answerEs": "1980",
+				"answer": "El Santa Helena",
+				"answerEs": "El Santa Helena",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "1990",
-				"answerEs": "1990",
+				"answer": "El Teide",
+				"answerEs": "El Teide",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Where was the Games of the XXII Olympiad held?",
-			"questionEs": "¿Dónde se celebraron los Juegos de la XXII Olimpiada?",
+			"question": "¿Dónde se celebraron los Juegos del año 1980?",,
+			"questionEs": "¿Dónde se celebraron los Juegos del año 1980?",
 			"a1": {
-				"answer": "Moscow",
+				"answer": "Moscú",
 				"answerEs": "Moscú",
 				"isCorrect": true
 			},
@@ -2293,12 +2293,12 @@
 			},
 			"a3": {
 				"answer": "Tokyo",
-				"answerEs": "tokio",
+				"answerEs": "Tokyo",
 				"isCorrect": false
 			},
 			"a4": {
 				"answer": "Los Angeles",
-				"answerEs": "los Angeles",
+				"answerEs": "Los Angeles",
 				"isCorrect": false
 			}
 		}
@@ -2307,65 +2307,65 @@
 		"number": 19,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "What is the world&#039;s most expensive spice by weight?",
+			"question": "¿Cuál es la especia más cara del mundo por peso?",
 			"questionEs": "¿Cuál es la especia más cara del mundo por peso?",
 			"a1": {
-				"answer": "Saffron",
+				"answer": "Azafrán",
 				"answerEs": "Azafrán",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Cinnamon",
+				"answer": "Canela",
 				"answerEs": "Canela",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Cardamom",
+				"answer": "Cardamomo",
 				"answerEs": "Cardamomo",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Vanilla",
+				"answer": "Vainilla",
 				"answerEs": "Vainilla",
 				"isCorrect": false
 			}
 		},
 		"q2": {
 			"category": "Entertainment: Board Games",
-			"question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+			"question": "¿Quién protagoniza la película Cadena Perpetua (The Shawshank Redemption)",
 			"questionEs": "En \"Magic: The Gathering\", ¿qué carta instantánea tiene el coste de maná convertido más alto?",
 			"a1": {
-				"answer": "Blinkmoth Infusion",
-				"answerEs": "Infusión de polilla parpadeante",
+				"answer": "Tim Robbins",
+				"answerEs": "Tim Robbins",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Vitalizing Wind",
-				"answerEs": "Viento Vitalizante",
+				"answer": "Samuel L. Jackson",
+				"answerEs": "Samuel L. Jackson",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": " Chant of Vitu-Ghazi",
-				"answerEs": "Canto de Vitu-Ghazi",
+				"answer": "Tom Hanks",
+				"answerEs": "Tom Hanks",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Assert Authority",
-				"answerEs": "Afirmar autoridad",
+				"answer": "Tom Cruise",
+				"answerEs": "Tom Cruise",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What is isobutylphenylpropanoic acid more commonly known as?",
-			"questionEs": "¿Cómo se conoce más comúnmente al ácido isobutilfenilpropanoico?",
+			"question": "¿Cómo se conoce más comúnmente al ácido acetilsalicílico?",
+			"questionEs": "¿Cómo se conoce más comúnmente al ácido acetilsalicílico?",
 			"a1": {
-				"answer": "Ibuprofen",
-				"answerEs": "Ibuprofeno",
+				"answer": "Aspirina",
+				"answerEs": "Aspirina",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Morphine",
+				"answer": "Morfina",
 				"answerEs": "Morfina",
 				"isCorrect": false
 			},
@@ -2375,58 +2375,58 @@
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Aspirin",
-				"answerEs": "Aspirina",
+				"answer": "Ibuprofeno",
+				"answerEs": "Ibuprofeno",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "On what street did the 1666 Great Fire of London start?",
-			"questionEs": "¿En qué calle comenzó el Gran Incendio de Londres de 1666?",
+			"question": "¿Dónde tuvo lugar la revolución de los misiles?",
+			"questionEs": "¿Dónde tuvo lugar la revolución de los misiles?",
 			"a1": {
-				"answer": "Pudding Lane",
-				"answerEs": "Carril pudín",
+				"answer": "Cuba",
+				"answerEs": "Cuba",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Baker Street",
-				"answerEs": "calle del panadero",
+				"answer": "Panamá",
+				"answerEs": "Panamá",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Houses of Parliament",
-				"answerEs": "Parlamento",
+				"answer": "Rusia",
+				"answerEs": "Rusia",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "St Paul&#039;s Cathedral",
-				"answerEs": "Catedral de San Pablo",
+				"answer": "Estados Unidos",
+				"answerEs": "Estados Unidos",
 				"isCorrect": false
 			}
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
-			"questionEs": "¿Cuál de estos equipos no es miembro de la era \"Original Six\" de la NHL?",
+			"question": "¿Cómo se le llama a la anotación de un tanto en fútbol americano?",
+			"questionEs": "¿Cómo se le llama a la anotación de un tanto en fútbol americano?",
 			"a1": {
-				"answer": "Philadelphia Flyers",
-				"answerEs": "volantes de filadelfia",
+				"answer": "Touchdown",
+				"answerEs": "Touchdown",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "New York Rangers",
-				"answerEs": "guardabosques de nueva york",
+				"answer": "Homerun",
+				"answerEs": "Homerun",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Toronto Maple Leafs",
-				"answerEs": "las hojas de arce de Toronto",
+				"answer": "Homerun",
+				"answerEs": "Homerun",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Boston Bruins",
-				"answerEs": "Bruins de boston",
+				"answer": "Dribble",
+				"answerEs": "Dribble",
 				"isCorrect": false
 			}
 		}
@@ -2435,90 +2435,90 @@
 		"number": 20,
 		"q1": {
 			"category": "General Knowledge",
-			"question": "The Swedish word &quot;Grunka&quot; means what in English?",
-			"questionEs": "¿Qué significa la palabra sueca \"Grunka\" en inglés?",
+			"question": "¿Quién pintó La Última Cena?",
+			"questionEs": "¿Quién pintó La Última Cena?",
 			"a1": {
-				"answer": "Thing",
-				"answerEs": "Cosa",
+				"answer": "Leonardo da Vinci",
+				"answerEs": "Leonardo da Vinci",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "People",
-				"answerEs": "Gente",
+				"answer": "Michelangelo Buonarroti",
+				"answerEs": "Michelangelo Buonarroti",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Place",
+				"answer": "Ezzio Auditore da Firenze",
 				"answerEs": "Lugar",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Pineapple",
-				"answerEs": "Piña",
+				"answer": "Giovanni Rana",
+				"answerEs": "Giovanni Rana",
 				"isCorrect": false
 			}
 		},
 		"q2": {
-			"category": "Entertainment: Musicals & Theatres",
-			"question": "In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...",
-			"questionEs": "En la versión musical de Jeff Wayne de La guerra de los mundos, las posibilidades de que algo venga de Marte son...",
+			"category": "Entertainment: Videogames",
+			"question": "En el famoso videojuego Fortnite, ¿de qué vehículo saltas al empezar una partida?",
+			"questionEs": "En el famoso videojuego Fortnite, ¿de qué vehículo saltas al empezar una partida?",
 			"a1": {
-				"answer": "A million to one",
-				"answerEs": "Un millón a uno",
+				"answer": "Autobús",
+				"answerEs": "Autobús",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "A billion to one",
-				"answerEs": "Mil millones a uno",
+				"answer": "Helicóptero",
+				"answerEs": "Helicóptero",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "A trillion to one",
-				"answerEs": "Un trillón a uno",
+				"answer": "Avión",
+				"answerEs": "Avión",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "A hundred to one",
-				"answerEs": "Cien a uno",
+				"answer": "Dirigible",
+				"answerEs": "Dirigible",
 				"isCorrect": false
 			}
 		},
 		"q3": {
 			"category": "Science & Nature",
-			"question": "What is the first element on the periodic table?",
+			"question": "¿Cuál es el primer elemento de la tabla periódica?",
 			"questionEs": "¿Cuál es el primer elemento de la tabla periódica?",
 			"a1": {
-				"answer": "Hydrogen",
+				"answer": "Hidrógeno",
 				"answerEs": "Hidrógeno",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "Helium",
+				"answer": "Helio",
 				"answerEs": "Helio",
 				"isCorrect": false
 			},
 			"a3": {
-				"answer": "Oxygen",
+				"answer": "Oxígeno",
 				"answerEs": "Oxígeno",
 				"isCorrect": false
 			},
 			"a4": {
-				"answer": "Lithium",
+				"answer": "Litio",
 				"answerEs": "Litio",
 				"isCorrect": false
 			}
 		},
 		"q4": {
 			"category": "History",
-			"question": "Which of the following countries was the first to send an object into space?",
-			"questionEs": "¿Cuál de los siguientes países fue el primero en enviar un objeto al espacio?",
+			"question": "¿Cuál de los siguientes países fue el primero en enviar un hombre al espacio?",
+			"questionEs": "¿Cuál de los siguientes países fue el primero en enviar un hombre al espacio?",
 			"a1": {
-				"answer": "Germany",
-				"answerEs": "Alemania",
+				"answer": "URSS",
+				"answerEs": "URSS",
 				"isCorrect": true
 			},
 			"a2": {
-				"answer": "USA",
+				"answer": "Estados Unidos",
 				"answerEs": "Estados Unidos",
 				"isCorrect": false
 			},
@@ -2535,7 +2535,7 @@
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "How many soccer players should be on the field at the same time?",
+			"question": "¿Cuántos jugadores de fútbol deben estar en el campo al mismo tiempo?",
 			"questionEs": "¿Cuántos jugadores de fútbol deben estar en el campo al mismo tiempo?",
 			"a1": {
 				"answer": "22",
