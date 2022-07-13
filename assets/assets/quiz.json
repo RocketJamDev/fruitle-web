@@ -1230,7 +1230,7 @@
 		},
 		"q4": {
 			"category": "History",
-			"question": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",,
+			"question": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",
 			"questionEs": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",
 			"a1": {
 				"answer": "Unión Soviética",
@@ -2279,7 +2279,7 @@
 		},
 		"q5": {
 			"category": "Sports",
-			"question": "¿Dónde se celebraron los Juegos del año 1980?",,
+			"question": "¿Dónde se celebraron los Juegos del año 1980?",
 			"questionEs": "¿Dónde se celebraron los Juegos del año 1980?",
 			"a1": {
 				"answer": "Moscú",

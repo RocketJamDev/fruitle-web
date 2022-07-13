@@ -46436,11 +46436,13 @@ case 2:A.n0(B.cJ,16,B.c3,"Resultados copiados al portapapeles",B.i,3,B.cZ,"rgba(
 return A.D(null,r)}})
 return A.E($async$nH,r)},
 jR(a){return this.EI(a)},
-EI(a){var s=0,r=A.F(t.z),q=this,p
+EI(a){var s=0,r=A.F(t.z),q=this,p,o,n
 var $async$jR=A.G(function(b,c){if(b===1)return A.C(c,r)
 while(true)switch(s){case 0:p=q.z.a.b[a.a]
+o=p.b
+n=B.c.o1(p.e,new A.Tc()).b
 s=2
-return A.A(A.n0(B.cJ,50,B.c3,p.b+"\n\n"+B.c.o1(p.e,new A.Tc()).a,B.i,3,B.cZ,"rgba(0, 0, 0, 0.5);","center"),$async$jR)
+return A.A(A.n0(B.cJ,50,B.c3,o+"\n\n"+n,B.i,3,B.cZ,"rgba(0, 0, 0, 0.5);","center"),$async$jR)
 case 2:return A.D(null,r)}})
 return A.E($async$jR,r)},
 ms(a){return this.EH(a)},
