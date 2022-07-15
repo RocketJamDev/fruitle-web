@@ -49788,8 +49788,8 @@ s=new A.bb(m,!1).B(0,B.xe)
 m=A.cC("Siguiente Fruitle",A.dd(p,25,B.x,p),p,p)
 r=t.p
 m=A.dz(A.a([A.d9(A.a([m,new A.rC(A.dd(p,A.b(this.d,o)<620?30:38,B.x,B.W),s.a,p)],r),B.M,B.N),A.aav(!1,new A.hu(B.xk,A.dz(A.a([A.cC("Share",A.dd(p,25,B.x,p),p,p),B.EA,B.xP],r),B.N,B.O),p),B.H,p,p,p,p,p,a.gVs(),p)],r),B.px,B.O)
-q=A.b(this.d,o)<600?B.ch:A.ds(p,p,p,p,p,p,p,p,p)
-return A.d9(A.a([m,q,A.b(this.d,o)<600?A.ab5(B.kn,"rocketjam",new A.V7()):A.ds(p,p,p,p,p,p,p,p,p)],r),B.M,B.N)},
+q=A.b(this.d,o)<620?B.ch:A.ds(p,p,p,p,p,p,p,p,p)
+return A.d9(A.a([m,q,A.b(this.d,o)<620?A.ab5(B.kn,"rocketjam",new A.V7()):A.ds(p,p,p,p,p,p,p,p,p)],r),B.M,B.N)},
 yz(a,b){var s,r,q,p,o=this,n=null,m="screenHeight"
 if(A.b(o.d,m)>530)s=A.cC("Fruitle",A.dd(n,A.b(o.d,m)<700?60:100,B.x,n),n,n)
 else s=A.ds(n,n,n,n,n,n,n,n,n)
